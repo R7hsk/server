@@ -542,3 +542,5 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [23:12:42] [Server thread/INFO]: percentyack issued server command: /weather clear
 [23:12:42] [Server thread/INFO]: La tormenta ha llegado a su fin.
 [23:12:42] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[23:16:14] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:debug_stick
+[23:16:14] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
