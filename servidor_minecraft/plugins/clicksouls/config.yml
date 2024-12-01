@@ -1,0 +1,24 @@
+id1:
+  name: 'soul of diamond'
+  title: true
+  world: 'world'
+  command:
+    - 'give %player% golden_apple 1'
+  commandlast:
+    - 'give %player% enchanted_golden_apple 1'
+  message:
+    title: '&6you found soul of diamond'
+    sub: '&2you got %found%/%total%'
+    message: '&2You have found soul of diamond %found%/%total%'
+id2:
+  name: 'soul of gold'
+  title: true
+  world: 'world'
+  command:
+    - 'give %player% golden_apple 1'
+  commandlast:
+    - 'give %player% enchanted_golden_apple 1'
+  message:
+    title: '&6you found soul of gold'
+    sub: '&2you got %found%/%total%'
+    message: '&2You have found soul of gold %found%/%total%'
