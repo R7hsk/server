@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-01 22:03:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 21:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-01 22:03:28 +0000"
     },
     "done": true
   },
@@ -74,6 +86,12 @@
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2024-12-01 21:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-01 22:03:28 +0000"
     },
     "done": true
   },
@@ -291,9 +309,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-01 22:03:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 21:00:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-01 22:03:28 +0000"
     },
     "done": true
   },
@@ -329,10 +359,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-01 22:02:24 +0000",
       "minecraft:spider": "2024-12-01 21:56:19 +0000",
       "minecraft:creeper": "2024-12-01 21:55:43 +0000",
       "minecraft:witch": "2024-12-01 21:56:34 +0000",
-      "minecraft:enderman": "2024-12-01 21:54:30 +0000"
+      "minecraft:enderman": "2024-12-01 21:54:30 +0000",
+      "minecraft:zombie": "2024-12-01 22:01:43 +0000",
+      "minecraft:zombie_villager": "2024-12-01 22:02:34 +0000"
     },
     "done": false
   },
@@ -354,9 +387,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-01 22:03:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-01 21:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-01 22:03:06 +0000"
     },
     "done": true
   },
@@ -375,6 +420,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2024-12-01 21:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_string": "2024-12-01 22:03:28 +0000"
     },
     "done": true
   },
@@ -399,6 +450,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-01 20:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-12-01 22:03:28 +0000"
     },
     "done": true
   },
