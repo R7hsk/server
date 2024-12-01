@@ -410,3 +410,42 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [22:24:22] [Server thread/INFO]: [percentyack: Gave 1 [Barrier] to R3hsk]
 [22:24:29] [Server thread/INFO]: percentyack issued server command: /give @a minecraft:barrier
 [22:24:29] [Server thread/INFO]: [percentyack: Gave 1 [Barrier] to 2]
+[22:26:16] [Server thread/INFO]: percentyack issued server command: //set barrier
+[22:28:26] [Server thread/INFO]: percentyack issued server command: //set spruce_block
+[22:28:33] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:28:51] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:28:56] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:29:00] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:29:17] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:29:20] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:29:24] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:29:27] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:30:12] [Server thread/INFO]: percentyack issued server command: //set air
+[22:30:28] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:31:39] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:32:05] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:32:10] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:32:21] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:32:28] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:32:29] [Server thread/INFO]: R3hsk issued server command: /time set da
+[22:32:34] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:32:36] [Server thread/INFO]: R3hsk issued server command: /time set day
+[22:32:36] [Server thread/INFO]: [R3hsk: Set the time to 1000]
+[22:32:55] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:33:02] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:33:07] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:33:11] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:33:14] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:33:23] [Server thread/INFO]: R3hsk issued server command: //set spruce_planks
+[22:33:38] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:33:46] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:33:51] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:33:54] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:33:55] [Server thread/INFO]: R3hsk issued server command: //set spruce_planks
+[22:34:13] [Server thread/INFO]: R3hsk issued server command: //set spruce_planks
+[22:34:14] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:34:26] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:34:33] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:34:42] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:34:44] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:34:50] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
