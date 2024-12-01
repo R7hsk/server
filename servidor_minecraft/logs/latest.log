@@ -237,3 +237,55 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [21:03:07] [User Authenticator #4/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
 [21:03:07] [Server thread/INFO]: R3hsk se ha unido al servidor.
 [21:03:07] [Server thread/INFO]: R3hsk[/127.205.157.163:60305] logged in with entity id 1642 at ([Permadeadth]160.48558180908125, 73.0, -247.25200196504593)
+[21:05:44] [Server thread/INFO]: percentyack issued server command: /time set day
+[21:05:44] [Server thread/INFO]: [percentyack: Set the time to 1000]
+[21:06:45] [Server thread/INFO]: R3hsk issued server command: /griefprevention:adjustbonusclaimblocksall
+[21:07:11] [Server thread/INFO]: percentyack issued server command: /worldborder add 750000 10
+[21:07:59] [Server thread/INFO]: percentyack issued server command: /worldborder add 750000 10
+[21:08:26] [Server thread/INFO]: percentyack issued server command: /worldborder set
+[21:08:42] [Server thread/INFO]: percentyack issued server command: /worldborder set 750000 10
+[21:08:42] [Server thread/INFO]: [percentyack: Shrinking the world border to 750000.0 blocks wide over 10 seconds]
+[21:08:54] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[21:08:54] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[21:08:55] [Server thread/INFO]: percentyack issued server command: /worldborder get
+[21:09:19] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk 700000 90 700000
+[21:09:20] [Server thread/INFO]: [R3hsk: Teleported R3hsk to 700000.5, 90.0, 700000.5]
+[21:09:20] [Server thread/INFO]: Permadeath ➤ El jugador R3hsk no puede dar más horas de tormenta.
+[21:09:20] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[21:09:20] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[21:09:20] [Server thread/INFO]: X: 700000 || Y: 90 || Z: 700000
+[21:09:20] [Server thread/INFO]: R3hsk suffocated in a wall
+[21:09:21] [Server thread/INFO]: R3hsk lost connection: Has sido PERMABANEADO
+[21:09:21] [Server thread/INFO]: R3hsk ha abandonado el servidor.
+[21:09:26] [Server thread/INFO]: percentyack issued server command: /pardon R3hsk
+[21:09:26] [Server thread/INFO]: [percentyack: Unbanned R3hsk]
+[21:09:44] [Server thread/INFO]: percentyack issued server command: /worldborder set 1000000 5
+[21:09:44] [Server thread/INFO]: [percentyack: Growing the world border to 1000000.0 blocks wide over 5 seconds]
+[21:09:52] [Server thread/INFO]: percentyack issued server command: /worldborder get
+[21:09:59] [User Authenticator #5/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[21:09:59] [Server thread/INFO]: R3hsk se ha unido al servidor.
+[21:09:59] [Server thread/INFO]: R3hsk[/127.205.157.163:49659] logged in with entity id 2529 at ([Permadeadth]700000.5, 90.0, 700000.5)
+[21:10:05] [Server thread/INFO]: percentyack issued server command: /gamemode creative R3hsk
+[21:10:05] [Server thread/INFO]: [percentyack: Set R3hsk's game mode to Creative Mode]
+[21:10:23] [Server thread/INFO]: percentyack issued server command: /tp R3hsk 500000 90 500000
+[21:10:23] [Server thread/INFO]: Attempt to teleport dead player R3hsk restricted
+[21:10:23] [Server thread/INFO]: [percentyack: Teleported R3hsk to 500000.5, 90.0, 500000.5]
+[21:10:29] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[21:10:29] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[21:10:33] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[21:10:33] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[21:10:45] [Server thread/INFO]: percentyack issued server command: /tp R3hsk 500000 90 500000
+[21:10:45] [Server thread/INFO]: [percentyack: Teleported R3hsk to 500000.5, 90.0, 500000.5]
+[21:10:47] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[21:10:47] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[21:11:35] [Server thread/INFO]: percentyack issued server command: /worldborder set 1500000 5
+[21:11:35] [Server thread/INFO]: [percentyack: Growing the world border to 1500000.0 blocks wide over 5 seconds]
+[21:11:40] [Server thread/INFO]: percentyack issued server command: /worldborder get
+[21:11:51] [Server thread/INFO]: percentyack issued server command: /tp R3hsk 1500000
+[21:12:16] [Server thread/INFO]: percentyack issued server command: /tp R3hsk 750000 90 750000
+[21:12:16] [Server thread/INFO]: [percentyack: Teleported R3hsk to 750000.5, 90.0, 750000.5]
+[21:12:19] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[21:12:19] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[21:12:38] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[21:12:38] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[21:12:48] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
