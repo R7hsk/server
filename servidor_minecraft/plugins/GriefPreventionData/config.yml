@@ -5,8 +5,8 @@ GriefPrevention:
     Permadeadth_the_end: -1
   Claims:
     Mode:
-      Permadeadth: Survival
       Permadeadth_the_end: Disabled
+      Permadeadth: Survival
     PreventGlobalMonsterEggs: true
     PreventTheft: true
     ProtectCreatures: true
