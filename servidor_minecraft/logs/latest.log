@@ -335,3 +335,27 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [21:33:52] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
 [21:33:55] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
 [21:33:58] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[21:35:40] [Server thread/INFO]: percentyack issued server command: //curve diamond_block 13
+[21:35:54] [Server thread/INFO]: R3hsk issued server command: /time set day
+[21:35:54] [Server thread/INFO]: [R3hsk: Set the time to 1000]
+[21:36:02] [Server thread/INFO]: percentyack issued server command: //faces diamond_block 13
+[21:36:20] [Server thread/INFO]: percentyack issued server command: //cyl diamond_block 13
+[21:38:12] [Server thread/INFO]: percentyack issued server command: //undo
+[21:38:20] [Server thread/INFO]: percentyack issued server command: //undo
+[21:39:02] [Server thread/INFO]: percentyack issued server command: //center diamond_block
+[21:39:18] [Server thread/INFO]: percentyack issued server command: //center diamond_block
+[21:39:46] [Server thread/INFO]: percentyack issued server command: //set bedrock
+[21:39:51] [Server thread/INFO]: percentyack issued server command: //center diamond_block
+[21:41:45] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:42:04] [Server thread/INFO]: R3hsk issued server command: //center
+[21:42:10] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[21:42:18] [Server thread/INFO]: percentyack issued server command: //center air
+[21:42:33] [Server thread/INFO]: percentyack issued server command: //walls bedrock
+[21:42:40] [Server thread/INFO]: percentyack issued server command: //walls polished_andesite
+[21:42:57] [Server thread/INFO]: percentyack issued server command: //walls air
+[21:43:07] [Server thread/INFO]: percentyack issued server command: //walls polished_andesite
+[21:43:17] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:43:29] [Server thread/INFO]: percentyack issued server command: //walls polished_andesite
+[21:43:47] [Server thread/INFO]: percentyack issued server command: //center bedrock
+[21:43:52] [Server thread/INFO]: R3hsk issued server command: //center bedr
+[21:44:01] [Server thread/INFO]: R3hsk issued server command: //center bedrock
