@@ -377,3 +377,15 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [21:53:52] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
 [21:54:09] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
 [21:54:30] [Server thread/INFO]: R3hsk has made the advancement [Monster Hunter]
+[21:55:10] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:55:24] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:55:31] [Server thread/INFO]: R3hsk issued server command: /difficulty peaceful
+[21:55:31] [Server thread/INFO]: [R3hsk: The difficulty has been set to Peaceful]
+[21:55:38] [Server thread/INFO]: R3hsk issued server command: /time set day
+[21:55:38] [Server thread/INFO]: [R3hsk: Set the time to 1000]
+[21:56:03] [Server thread/INFO]: R3hsk issued server command: /pdc give netheriteTools
+[21:59:04] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:59:15] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:59:28] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[22:00:46] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[22:02:41] [Server thread/INFO]: percentyack has made the advancement [Monster Hunter]
