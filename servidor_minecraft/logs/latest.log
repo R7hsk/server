@@ -247,3 +247,47 @@ Reason: Has sido PERMABANEADO
 [20:20:54] [Server thread/INFO]: percentyack issued server command: /gamemode creative
 [20:20:54] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
 [20:24:34] [Server thread/INFO]: percentyack issued server command: /home
+[20:27:29] [Server thread/INFO]: percentyack issued server command: /home
+[20:29:12] [Server thread/INFO]: R3hsk issued server command: /tp 2333333 200 2333333
+[20:29:13] [Server thread/INFO]: [R3hsk: Teleported R3hsk to 2333333.5, 200.0, 2333333.5]
+[20:29:48] [Server thread/INFO]: R3hsk issued server command: /fill ~ ~ ~ ~ ~ ~ minecraft:bedrock
+[20:29:48] [Server thread/INFO]: [R3hsk: Successfully filled 1 blocks]
+[20:30:33] [Server thread/INFO]: R3hsk issued server command: /fill 2333344 170 2333321
+[20:31:45] [Server thread/INFO]: R3hsk issued server command: /fill 2333344 171 2333321 ~ ~ ~ minecraft:bedrock
+[20:31:45] [Server thread/INFO]: [R3hsk: Successfully filled 3 blocks]
+[20:32:02] [Server thread/INFO]: R3hsk issued server command: //set bedrock
+[20:32:30] [Server thread/INFO]: R3hsk issued server command: //set
+[20:34:13] [Server thread/INFO]: R3hsk issued server command: /tp percentyack R3hsk
+[20:34:13] [Server thread/INFO]: [R3hsk: Teleported percentyack to R3hsk]
+[20:34:38] [Server thread/INFO]: percentyack issued server command: /tp 0 70 0
+[20:34:38] [Server thread/INFO]: [percentyack: Teleported percentyack to 0.5, 70.0, 0.5]
+[20:34:58] [Server thread/INFO]: R3hsk issued server command: /tp 1 65 1
+[20:34:58] [Server thread/INFO]: [R3hsk: Teleported R3hsk to 1.5, 65.0, 1.5]
+[20:35:08] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[20:35:08] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[20:35:18] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk 0 65 0
+[20:35:18] [Server thread/INFO]: [R3hsk: Teleported R3hsk to 0.5, 65.0, 0.5]
+[20:35:31] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[20:35:31] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[20:35:34] [Server thread/INFO]: R3hsk issued server command: /kill
+[20:35:34] [Server thread/INFO]: Permadeath ➤ El jugador R3hsk no puede dar más horas de tormenta.
+[20:35:34] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[20:35:34] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[20:35:34] [Server thread/INFO]: X: 0 || Y: 75 || Z: 3
+[20:35:34] [Server thread/INFO]: R3hsk fell out of the world
+[20:35:34] [Server thread/INFO]: [R3hsk: Killed R3hsk]
+[20:35:36] [Server thread/INFO]: R3hsk lost connection: Has sido PERMABANEADO
+[20:35:36] [Server thread/INFO]: R3hsk ha abandonado el servidor.
+[20:35:51] [Server thread/INFO]: percentyack issued server command: /pdc
+[20:35:52] [User Authenticator #3/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[20:35:52] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1fa82fb0[id=7692f88a-9b06-33c7-b0b5-53a75a64065d,name=R3hsk,properties={},legacy=false] (/127.205.157.163:39829): You are banned from this server.
+Reason: Has sido PERMABANEADO
+[20:35:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@1fa82fb0[id=7692f88a-9b06-33c7-b0b5-53a75a64065d,name=R3hsk,properties={},legacy=false] (/127.205.157.163:39829) lost connection: You are banned from this server.
+Reason: Has sido PERMABANEADO
+[20:35:54] [Server thread/INFO]: percentyack issued server command: /pardon R3hsk
+[20:35:54] [Server thread/INFO]: [percentyack: Unbanned R3hsk]
+[20:35:58] [Async Chat Thread - #0/INFO]: ┃ Admin ● percentyack » pdc
+[20:35:58] [User Authenticator #3/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[20:35:58] [Server thread/INFO]: R3hsk se ha unido al servidor.
+[20:35:58] [Server thread/INFO]: R3hsk[/127.205.157.163:44899] logged in with entity id 4283 at ([Permadeadth]157.5, 63.099998474121094, 225.5)
+[20:36:01] [Server thread/INFO]: percentyack issued server command: /pdc
