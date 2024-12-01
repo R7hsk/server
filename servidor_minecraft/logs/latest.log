@@ -291,3 +291,128 @@ Reason: Has sido PERMABANEADO
 [20:35:58] [Server thread/INFO]: R3hsk se ha unido al servidor.
 [20:35:58] [Server thread/INFO]: R3hsk[/127.205.157.163:44899] logged in with entity id 4283 at ([Permadeadth]157.5, 63.099998474121094, 225.5)
 [20:36:01] [Server thread/INFO]: percentyack issued server command: /pdc
+[20:36:23] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[20:36:23] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[20:37:07] [Server thread/INFO]: percentyack issued server command: /pdc afk
+[20:37:32] [Server thread/INFO]: percentyack issued server command: /pdc afk bypass add R3hsk
+[20:37:35] [Server thread/INFO]: R3hsk issued server command: /worldborder set 511111
+[20:37:35] [Server thread/INFO]: [R3hsk: Set the world border to 511111.0 blocks wide]
+[20:37:43] [Server thread/INFO]: percentyack issued server command: /pdc afk bypass add percentyack
+[20:38:00] [Server thread/INFO]: R3hsk issued server command: /worldborder set 751111
+[20:38:00] [Server thread/INFO]: [R3hsk: Set the world border to 751111.0 blocks wide]
+[20:38:01] [Server thread/INFO]: percentyack issued server command: /kill
+[20:38:01] [Server thread/INFO]: Permadeath ➤ El jugador percentyack no puede dar más horas de tormenta.
+[20:38:01] [Server thread/INFO]: percentyack ha muerto y ahora descanza en paz.
+[20:38:01] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de percentyack. ¡HA SIDO PERMABANEADO!
+[20:38:01] [Server thread/INFO]: X: -247 || Y: 192 || Z: -325
+[20:38:01] [Server thread/INFO]: percentyack fell out of the world
+[20:38:01] [Server thread/INFO]: [percentyack: Killed percentyack]
+[20:38:03] [Server thread/INFO]: percentyack lost connection: Has sido PERMABANEADO
+[20:38:03] [Server thread/INFO]: percentyack ha abandonado el servidor.
+[20:38:11] [Server thread/INFO]: R3hsk issued server command: /pardon percentyack
+[20:38:11] [Server thread/INFO]: [R3hsk: Unbanned percentyack]
+[20:38:15] [User Authenticator #4/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[20:38:15] [Server thread/INFO]: percentyack se ha unido al servidor.
+[20:38:15] [Server thread/INFO]: percentyack[/127.202.181.42:35965] logged in with entity id 4774 at ([Permadeadth]-246.21308301995546, 192.98971682988017, -324.55500036906284)
+[20:38:48] [Server thread/INFO]: percentyack issued server command: /gamemode survival
+[20:38:48] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
+[20:39:51] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk 751111 65 751111
+[20:39:51] [Server thread/INFO]: [R3hsk: Teleported R3hsk to 751111.5, 65.0, 751111.5]
+[20:39:57] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[20:39:57] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[20:40:04] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[20:40:04] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[20:40:04] [Server thread/INFO]: Permadeath ➤ El jugador R3hsk no puede dar más horas de tormenta.
+[20:40:04] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[20:40:04] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[20:40:04] [Server thread/INFO]: X: 751109 || Y: 73 || Z: 751115
+[20:40:04] [Server thread/INFO]: R3hsk suffocated in a wall
+[20:40:06] [Server thread/INFO]: R3hsk lost connection: Has sido PERMABANEADO
+[20:40:06] [Server thread/INFO]: R3hsk ha abandonado el servidor.
+[20:40:33] [Server thread/INFO]: percentyack issued server command: /pardon
+[20:40:35] [User Authenticator #5/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[20:40:35] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1fa82fb0[id=7692f88a-9b06-33c7-b0b5-53a75a64065d,name=R3hsk,properties={},legacy=false] (/127.205.157.163:44379): You are banned from this server.
+Reason: Has sido PERMABANEADO
+[20:40:35] [Server thread/INFO]: com.mojang.authlib.GameProfile@1fa82fb0[id=7692f88a-9b06-33c7-b0b5-53a75a64065d,name=R3hsk,properties={},legacy=false] (/127.205.157.163:44379) lost connection: You are banned from this server.
+Reason: Has sido PERMABANEADO
+[20:40:38] [Server thread/INFO]: percentyack issued server command: /pardon R3hsk
+[20:40:38] [Server thread/INFO]: [percentyack: Unbanned R3hsk]
+[20:40:41] [User Authenticator #5/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[20:40:41] [Server thread/INFO]: R3hsk se ha unido al servidor.
+[20:40:41] [Server thread/INFO]: R3hsk[/127.205.157.163:59647] logged in with entity id 5117 at ([Permadeadth]751109.5142834727, 73.55381843476684, 751115.4267486788)
+[20:40:46] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[20:40:46] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[20:41:05] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[20:41:05] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[20:41:20] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk 711111 75 711111
+[20:41:20] [Server thread/INFO]: [R3hsk: Teleported R3hsk to 711111.5, 75.0, 711111.5]
+[20:41:26] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[20:41:31] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[20:41:37] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[20:41:37] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[20:41:37] [Server thread/INFO]: Permadeath ➤ El jugador R3hsk no puede dar más horas de tormenta.
+[20:41:37] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[20:41:37] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[20:41:37] [Server thread/INFO]: X: 711111 || Y: 67 || Z: 711114
+[20:41:39] [Server thread/INFO]: R3hsk lost connection: Has sido PERMABANEADO
+[20:41:39] [Server thread/INFO]: R3hsk ha abandonado el servidor.
+[20:41:43] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[20:42:18] [User Authenticator #6/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[20:42:18] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@1fa82fb0[id=7692f88a-9b06-33c7-b0b5-53a75a64065d,name=R3hsk,properties={},legacy=false] (/127.205.157.163:36097): You are banned from this server.
+Reason: Has sido PERMABANEADO
+[20:42:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@1fa82fb0[id=7692f88a-9b06-33c7-b0b5-53a75a64065d,name=R3hsk,properties={},legacy=false] (/127.205.157.163:36097) lost connection: You are banned from this server.
+Reason: Has sido PERMABANEADO
+[20:42:29] [Server thread/INFO]: percentyack issued server command: /worldborder set 750000
+[20:42:29] [Server thread/INFO]: [percentyack: Set the world border to 750000.0 blocks wide]
+[20:42:33] [Server thread/INFO]: percentyack issued server command: /pardon R3hsk
+[20:42:33] [Server thread/INFO]: [percentyack: Unbanned R3hsk]
+[20:42:42] [User Authenticator #6/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[20:42:42] [Server thread/INFO]: R3hsk se ha unido al servidor.
+[20:42:42] [Server thread/INFO]: R3hsk[/127.205.157.163:57965] logged in with entity id 5394 at ([Permadeadth]711111.2312876676, 67.0, 711114.309232601)
+[20:43:00] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[20:43:00] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[20:43:25] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk 711111 75 711111
+[20:43:25] [Server thread/INFO]: [R3hsk: Teleported R3hsk to 711111.5, 75.0, 711111.5]
+[20:43:25] [Server thread/INFO]: Permadeath ➤ El jugador R3hsk no puede dar más horas de tormenta.
+[20:43:25] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[20:43:25] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[20:43:25] [Server thread/INFO]: X: 711111 || Y: 75 || Z: 711111
+[20:43:27] [Server thread/INFO]: R3hsk lost connection: Has sido PERMABANEADO
+[20:43:27] [Server thread/INFO]: R3hsk ha abandonado el servidor.
+[20:43:30] [Server thread/INFO]: percentyack issued server command: /pardon R3hsk
+[20:43:30] [Server thread/INFO]: [percentyack: Unbanned R3hsk]
+[20:43:44] [Server thread/INFO]: percentyack issued server command: /tp 100000 80 100000
+[20:43:44] [Server thread/INFO]: [percentyack: Teleported percentyack to 100000.5, 80.0, 100000.5]
+[20:43:52] [User Authenticator #7/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[20:43:52] [Server thread/INFO]: R3hsk se ha unido al servidor.
+[20:43:52] [Server thread/INFO]: R3hsk[/127.205.157.163:42031] logged in with entity id 5560 at ([Permadeadth]711111.5, 75.0, 711111.5)
+[20:44:00] [Server thread/INFO]: percentyack issued server command: /tp 200000 80 200000
+[20:44:00] [Server thread/INFO]: [percentyack: Teleported percentyack to 200000.5, 80.0, 200000.5]
+[20:44:14] [Server thread/INFO]: percentyack issued server command: /gamemode survival
+[20:44:14] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
+[20:44:23] [Server thread/INFO]: percentyack issued server command: /tp 300000 80 300000
+[20:44:23] [Server thread/INFO]: [percentyack: Teleported percentyack to 300000.5, 80.0, 300000.5]
+[20:44:55] [Server thread/INFO]: percentyack issued server command: /tp 500000 70 500000
+[20:44:55] [Server thread/INFO]: [percentyack: Teleported percentyack to 500000.5, 70.0, 500000.5]
+[20:44:55] [Server thread/INFO]: Permadeath ➤ El jugador percentyack no puede dar más horas de tormenta.
+[20:44:55] [Server thread/INFO]: percentyack ha muerto y ahora descanza en paz.
+[20:44:55] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de percentyack. ¡HA SIDO PERMABANEADO!
+[20:44:55] [Server thread/INFO]: X: 500000 || Y: 70 || Z: 500000
+[20:44:55] [Server thread/INFO]: percentyack suffocated in a wall
+[20:44:57] [Server thread/INFO]: percentyack lost connection: Has sido PERMABANEADO
+[20:44:57] [Server thread/INFO]: percentyack ha abandonado el servidor.
+[20:45:08] [Server thread/INFO]: R3hsk issued server command: /pardon percentyack
+[20:45:08] [Server thread/INFO]: [R3hsk: Unbanned percentyack]
+[20:45:09] [User Authenticator #8/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[20:45:09] [Server thread/INFO]: percentyack se ha unido al servidor.
+[20:45:09] [Server thread/INFO]: percentyack[/127.202.181.42:42995] logged in with entity id 6203 at ([Permadeadth]500000.5, 70.0, 500000.5)
+[20:45:10] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[20:45:10] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[20:45:22] [Server thread/INFO]: percentyack issued server command: /gamemode survival
+[20:45:22] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
+[20:45:44] [Server thread/INFO]: percentyack issued server command: /worldborder center
+[20:45:58] [Server thread/INFO]: percentyack issued server command: /worldedit
+[20:46:05] [Server thread/INFO]: percentyack issued server command: /worldborder
+[20:46:16] [Server thread/INFO]: percentyack issued server command: /worldborder warning distance 1
+[20:46:16] [Server thread/INFO]: [percentyack: Set the world border warning distance to 1 blocks]
+[20:46:19] [Server thread/INFO]: R3hsk issued server command: //set air

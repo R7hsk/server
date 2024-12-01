@@ -127,10 +127,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2024-12-01 20:34:38 +0000",
       "minecraft:forest": "2024-12-01 20:16:42 +0000",
+      "minecraft:mountains": "2024-12-01 20:44:00 +0000",
       "minecraft:snowy_tundra": "2024-12-01 20:17:03 +0000",
       "minecraft:frozen_river": "2024-12-01 20:17:02 +0000",
+      "minecraft:beach": "2024-12-01 20:34:14 +0000",
       "minecraft:river": "2024-12-01 20:17:01 +0000",
+      "minecraft:swamp": "2024-12-01 20:44:23 +0000",
+      "minecraft:savanna": "2024-12-01 20:44:55 +0000",
       "minecraft:plains": "2024-12-01 20:18:48 +0000"
     },
     "done": false

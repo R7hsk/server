@@ -3,14 +3,14 @@ Players:
     HP: 0
     LastDay: 1
     UUID: 7692f88a-9b06-33c7-b0b5-53a75a64065d
-    banCause: Vacío
-    banTime: '20:35:34'
+    banCause: Sofocado
+    banTime: '20:43:25'
     banDay: '2024-12-01'
-    coords: 0 75 3
+    coords: 711111 75 711111
   percentyack:
     UUID: 580ec885-9d4b-3219-941b-44aee1c47317
     HP: 0
-    banCause: Vacío
-    banTime: '20:19:16'
+    banCause: Sofocado
+    banTime: '20:44:55'
     banDay: '2024-12-01'
-    coords: 2111084 64 2111124
+    coords: 500000 70 500000
