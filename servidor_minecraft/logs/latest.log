@@ -395,3 +395,18 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [22:12:33] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
 [22:13:16] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
 [22:13:44] [Server thread/INFO]: percentyack issued server command: //undo
+[22:15:40] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[22:17:15] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[22:17:54] [Server thread/INFO]: percentyack issued server command: //set polished_andesite
+[22:18:04] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[22:18:19] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[22:21:13] [Server thread/INFO]: percentyack issued server command: //wand
+[22:21:18] [Server thread/INFO]: percentyack issued server command: //wand
+[22:21:30] [Server thread/INFO]: percentyack issued server command: //set air
+[22:22:56] [Server thread/INFO]: R3hsk issued server command: /time set dayd
+[22:22:56] [Server thread/INFO]: percentyack issued server command: /time set day
+[22:22:56] [Server thread/INFO]: [percentyack: Set the time to 1000]
+[22:24:22] [Server thread/INFO]: percentyack issued server command: /give R3hsk minecraft:barrier
+[22:24:22] [Server thread/INFO]: [percentyack: Gave 1 [Barrier] to R3hsk]
+[22:24:29] [Server thread/INFO]: percentyack issued server command: /give @a minecraft:barrier
+[22:24:29] [Server thread/INFO]: [percentyack: Gave 1 [Barrier] to 2]
