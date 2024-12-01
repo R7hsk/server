@@ -503,3 +503,30 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [22:53:55] [Server thread/INFO]: percentyack issued server command: //walls spruce_slab
 [22:54:01] [Server thread/INFO]: percentyack issued server command: //undo
 [22:54:09] [Server thread/INFO]: percentyack issued server command: //walls air
+[22:55:50] [Server thread/INFO]: percentyack issued server command: //walls spruce_slab
+[22:55:55] [Server thread/INFO]: percentyack issued server command: //undo
+[22:56:13] [Server thread/INFO]: percentyack issued server command: //walls spruce_slba
+[22:56:17] [Server thread/INFO]: percentyack issued server command: //walls spruce_slab
+[22:56:26] [Server thread/INFO]: percentyack issued server command: //undo
+[22:56:46] [Server thread/INFO]: R3hsk issued server command: /time set day
+[22:56:46] [Server thread/INFO]: [R3hsk: Set the time to 1000]
+[22:56:50] [Server thread/INFO]: R3hsk issued server command: /weather clear
+[22:56:50] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[22:56:50] [Server thread/INFO]: [R3hsk: Set the weather to clear]
+[22:56:51] [Server thread/INFO]: percentyack issued server command: //walls spruce_planks
+[22:57:07] [Server thread/INFO]: percentyack issued server command: //undo
+[22:58:31] [Server thread/INFO]: percentyack issued server command: //walls spruce_planks
+[22:58:36] [Server thread/INFO]: percentyack issued server command: //undo
+[22:59:22] [Server thread/INFO]: percentyack issued server command: //walls sea_lantern
+[23:01:28] [Server thread/INFO]: percentyack issued server command: //walls redstone_lamp
+[23:01:39] [Server thread/INFO]: R3hsk issued server command: /give R3hsk minecraft:stick
+[23:01:39] [Server thread/INFO]: [R3hsk: Gave 1 [Stick] to R3hsk]
+[23:01:58] [Server thread/INFO]: percentyack issued server command: /give @a minecraft:debug_stick
+[23:01:58] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to 2]
+[23:02:09] [Server thread/INFO]: percentyack issued server command: /weather clear
+[23:02:09] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[23:02:09] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[23:02:11] [Server thread/INFO]: percentyack issued server command: /time set day
+[23:02:11] [Server thread/INFO]: [percentyack: Set the time to 1000]
+[23:04:32] [Server thread/INFO]: percentyack issued server command: //walls polished_andesite
+[23:04:42] [Server thread/INFO]: percentyack issued server command: //walls glowstone
