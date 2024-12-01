@@ -318,3 +318,20 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [21:22:51] [Server thread/INFO]: [percentyack: Removed every effect from 2 targets]
 [21:22:57] [Server thread/INFO]: R3hsk issued server command: /effect clear R3hsk
 [21:23:14] [Server thread/INFO]: percentyack issued server command: //center diamond_block
+[21:24:35] [Server thread/INFO]: percentyack issued server command: //center diamond_block
+[21:26:02] [Server thread/INFO]: percentyack issued server command: //sphere diamond_block
+[21:26:17] [Server thread/INFO]: R3hsk issued server command: /time set day
+[21:26:17] [Server thread/INFO]: [R3hsk: Set the time to 1000]
+[21:26:23] [Server thread/INFO]: percentyack issued server command: //sphere diamond_block diamond_block 7
+[21:26:35] [Server thread/INFO]: percentyack issued server command: //sphere diamond_block diamond_block 7,1,7
+[21:26:42] [Server thread/INFO]: percentyack issued server command: //sphere diamond_block diamond_block 7, 1, 7
+[21:29:49] [Server thread/INFO]: R3hsk issued server command: //set air
+[21:32:07] [Server thread/INFO]: percentyack issued server command: //hsphere diamond_block 9
+[21:32:14] [Server thread/INFO]: percentyack issued server command: //undo
+[21:32:28] [Server thread/INFO]: percentyack issued server command: //hsphere diamond_block 9, 1, 9
+[21:33:40] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[21:33:43] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[21:33:49] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[21:33:52] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[21:33:55] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[21:33:58] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
