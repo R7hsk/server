@@ -470,3 +470,36 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [22:44:09] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
 [22:44:17] [Server thread/INFO]: percentyack issued server command: /home
 [22:44:44] [Server thread/INFO]: R3hsk issued server command: //set air
+[22:45:01] [Server thread/INFO]: percentyack issued server command: //walls sea_lantern
+[22:45:40] [Server thread/INFO]: percentyack issued server command: //walls spruce_slab
+[22:45:49] [Server thread/INFO]: percentyack issued server command: //walls spruce_slab
+[22:45:57] [Server thread/INFO]: percentyack issued server command: //walls spruce_slab
+[22:46:34] [Server thread/INFO]: percentyack issued server command: /tp R3hsk percentyack
+[22:46:34] [Server thread/INFO]: [percentyack: Teleported R3hsk to percentyack]
+[22:47:56] [Server thread/INFO]: percentyack issued server command: //set air
+[22:48:11] [Server thread/INFO]: R3hsk issued server command: //set spruce_leaves
+[22:48:17] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[22:48:47] [Server thread/INFO]: percentyack issued server command: //walls spruce_planks
+[22:49:02] [Server thread/INFO]: percentyack issued server command: //walls sea_lantern
+[22:49:59] [Server thread/INFO]: percentyack issued server command: //set air
+[22:50:33] [Server thread/INFO]: percentyack issued server command: //set spruce_slab
+[22:50:48] [Server thread/INFO]: percentyack issued server command: //walls spruce_planks
+[22:51:13] [Server thread/INFO]: percentyack issued server command: //walls sea_lantern
+[22:51:23] [Server thread/INFO]: percentyack issued server command: //walls spruce_planks
+[22:51:34] [Server thread/INFO]: percentyack issued server command: //walls spruce_planks
+[22:52:03] [Server thread/INFO]: percentyack issued server command: //set spruce_slab
+[22:52:09] [Server thread/INFO]: percentyack issued server command: //undo
+[22:52:16] [Server thread/INFO]: percentyack issued server command: //set spruce_slab
+[22:52:23] [Server thread/INFO]: percentyack issued server command: //set spruce_slab
+[22:52:30] [Server thread/INFO]: percentyack issued server command: //set spruce_slab
+[22:52:35] [Server thread/INFO]: percentyack issued server command: //set spruce_slab
+[22:52:38] [Server thread/INFO]: R3hsk issued server command: /time set day
+[22:52:38] [Server thread/INFO]: [R3hsk: Set the time to 1000]
+[22:53:00] [Server thread/INFO]: percentyack issued server command: //set spruce_slab
+[22:53:04] [Server thread/INFO]: percentyack issued server command: //undo
+[22:53:09] [Server thread/INFO]: percentyack issued server command: //walls spruce_slab
+[22:53:19] [Server thread/INFO]: percentyack issued server command: //walls spruce_slab
+[22:53:48] [Server thread/INFO]: percentyack issued server command: //walls spruce_slab
+[22:53:55] [Server thread/INFO]: percentyack issued server command: //walls spruce_slab
+[22:54:01] [Server thread/INFO]: percentyack issued server command: //undo
+[22:54:09] [Server thread/INFO]: percentyack issued server command: //walls air
