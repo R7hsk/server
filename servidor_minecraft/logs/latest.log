@@ -359,3 +359,21 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [21:43:47] [Server thread/INFO]: percentyack issued server command: //center bedrock
 [21:43:52] [Server thread/INFO]: R3hsk issued server command: //center bedr
 [21:44:01] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[21:45:07] [Server thread/INFO]: percentyack issued server command: /time set day
+[21:45:07] [Server thread/INFO]: [percentyack: Set the time to 1000]
+[21:47:49] [Server thread/INFO]: percentyack issued server command: //walls spruce_planks
+[21:49:37] [Server thread/INFO]: percentyack issued server command: /tp R3hsk percentyack
+[21:49:37] [Server thread/INFO]: [percentyack: Teleported R3hsk to percentyack]
+[21:50:35] [Server thread/INFO]: percentyack issued server command: //set spruce_button
+[21:50:40] [Server thread/INFO]: percentyack issued server command: //set spruce_planks
+[21:51:57] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:52:12] [Server thread/INFO]: percentyack issued server command: //set polished_andesite
+[21:52:20] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:52:33] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:53:28] [Server thread/INFO]: R3hsk issued server command: /difficulty peaceful
+[21:53:28] [Server thread/INFO]: [R3hsk: The difficulty has been set to Peaceful]
+[21:53:29] [Server thread/INFO]: percentyack issued server command: /difficulty peaceful
+[21:53:29] [Server thread/INFO]: [percentyack: The difficulty has been set to Peaceful]
+[21:53:52] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:54:09] [Server thread/INFO]: R3hsk issued server command: //set polished_andesite
+[21:54:30] [Server thread/INFO]: R3hsk has made the advancement [Monster Hunter]
