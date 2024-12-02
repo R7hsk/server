@@ -631,3 +631,26 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [23:03:36] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
 [23:03:39] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
 [23:03:43] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[23:04:13] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[23:04:32] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[23:04:40] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[23:05:02] [Server thread/INFO]: [@: Changed the block at 733877, 67, 747758]
+[23:05:21] [Server thread/INFO]: [@: Changed the block at 733877, 67, 747758]
+[23:05:34] [Server thread/INFO]: [@: Changed the block at 733877, 67, 747758]
+[23:05:48] [Server thread/INFO]: [@: Changed the block at 733877, 67, 747728]
+[23:05:53] [Server thread/INFO]: [@: Changed the block at 733877, 67, 747728]
+[23:06:33] [Server thread/INFO]: [@: Changed the block at 733909, 67, 747728]
+[23:06:38] [Server thread/INFO]: [@: Changed the block at 733909, 67, 747728]
+[23:06:56] [Server thread/INFO]: [@: Changed the block at 733909, 67, 747728]
+[23:09:34] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[23:09:34] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[23:09:42] [Server thread/INFO]: R3hsk issued server command: /clear
+[23:09:42] [Server thread/INFO]: [R3hsk: Removed 150 items from player R3hsk]
+[23:09:51] [Server thread/INFO]: R3hsk issued server command: /clear
+[23:09:51] [Server thread/INFO]: [R3hsk: Removed 144 items from player R3hsk]
+[23:12:13] [Server thread/INFO]: R3hsk issued server command: //set air
+[23:13:03] [Server thread/INFO]: percentyack issued server command: /gamemode spectator
+[23:13:03] [Server thread/INFO]: [percentyack: Set own game mode to Spectator Mode]
+[23:13:21] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[23:13:21] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[23:13:43] [Server thread/INFO]: [@: Changed the block at 733922, 67, 747752]
