@@ -526,3 +526,44 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [22:35:30] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
 [22:35:41] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
 [22:35:41] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[22:45:06] [Server thread/INFO]: [@: Changed the block at 733884, 66, 747707]
+[22:46:57] [Server thread/INFO]: R3hsk issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:2,MaxNearbyEntities:4,SpawnRange:6,Delay:140,MinSpawnDelay:100,MaxSpawnDelay:100,RequiredPlayerRange:7,SpawnData:{id:"minecraft:evoker",CustomName:"\"Evoker\"",CustomNameVisible:1,Health:30,Attributes:[{Name:"generic.ma
+[22:47:07] [Server thread/INFO]: R3hsk issued server command: /give R3hsk minecraft:command_block
+[22:47:07] [Server thread/INFO]: [R3hsk: Gave 1 [Command Block] to R3hsk]
+[22:47:13] [Server thread/INFO]: [@: Changed the block at 733884, 66, 747707]
+[22:47:24] [Server thread/INFO]: [@: Changed the block at 733908, 85, 747716]
+[22:47:52] [Server thread/INFO]: [@: Changed the block at 733909, 86, 747718]
+[22:48:06] [Server thread/INFO]: percentyack issued server command: /gamemode survival
+[22:48:06] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
+[22:48:12] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:48:14] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:48:22] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:48:29] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:48:39] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:48:48] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:48:52] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:48:53] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[22:48:53] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[22:48:55] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:49:00] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[22:49:00] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[22:50:51] [Server thread/INFO]: R3hsk issued server command: /give R3hsk minecraft:command_block
+[22:50:51] [Server thread/INFO]: [R3hsk: Gave 1 [Command Block] to R3hsk]
+[22:51:05] [Server thread/INFO]: [@: Changed the block at 733909, 86, 747719]
+[22:51:39] [Server thread/INFO]: [@: Changed the block at 733884, 67, 747707]
+[22:52:17] [Server thread/INFO]: percentyack issued server command: /gamemode survival
+[22:52:17] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
+[22:52:25] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:52:29] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:52:33] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:52:37] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:52:41] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:52:45] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:52:50] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:52:52] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:52:53] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[22:52:53] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[22:53:47] [Server thread/INFO]: [@: Changed the block at 733884, 67, 747707]
+[22:53:52] [Server thread/INFO]: [@: Changed the block at 733909, 86, 747719]
+[22:54:03] [Server thread/INFO]: percentyack issued server command: /gamemode survival
+[22:54:03] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
