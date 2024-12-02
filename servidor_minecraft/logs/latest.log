@@ -350,3 +350,32 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [21:39:39] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
 [21:41:26] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
 [21:42:45] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
+[21:46:35] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[21:46:35] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[21:46:43] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[21:46:43] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[21:46:45] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[21:46:45] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[21:46:49] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[21:46:49] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[21:47:34] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
+[21:48:22] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[21:48:22] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[21:48:27] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:49:01] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:49:44] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:ravager
+[21:49:44] [Server thread/INFO]: [R3hsk: Summoned new Ravager]
+[21:50:27] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[21:51:17] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:51:35] [Server thread/INFO]: R3hsk issued server command: /pdc give netheriteArmor
+[21:51:43] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:ravager
+[21:51:43] [Server thread/INFO]: [R3hsk: Summoned new Ravager]
+[21:52:12] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[21:52:22] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
+[21:52:39] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:52:40] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:52:41] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:52:42] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:53:00] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[21:53:15] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[21:53:37] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
