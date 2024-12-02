@@ -257,3 +257,58 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [02:24:21] [Server thread/INFO]: percentyack issued server command: /team join PvP @a
 [02:24:21] [Server thread/INFO]: [percentyack: Added 2 members to team [true]]
 [02:24:27] [Server thread/INFO]: percentyack issued server command: /team list PvP
+[02:24:40] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[02:24:40] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[02:25:29] [Server thread/INFO]: R3hsk issued server command: /pdc awake
+[02:25:36] [Server thread/INFO]: R3hsk issued server command: /permadeath:pdc mensaje
+[02:25:49] [Server thread/INFO]: R3hsk issued server command: /permadeath:pdc cambiardia
+[02:26:00] [Server thread/INFO]: R3hsk issued server command: /pdc mensaje
+[02:26:08] [Server thread/INFO]: R3hsk issued server command: /pdc reload
+[02:26:08] [Server thread/INFO]: [02/12/2024] 02:26:08 [ERROR] Error al cargar el mundo principal, esto hará que los Death Train no se presenten.
+
+[02:26:08] [Server thread/INFO]: [02/12/2024] 02:26:08 [ERROR] Abre el archivo config.yml y establece el mundo principal en la opción: MainWorld
+
+[02:26:08] [Server thread/INFO]: [02/12/2024] 02:26:08 [INFO] El plugin utilizará el mundo Permadeadth como mundo principal.
+
+[02:26:08] [Server thread/INFO]: [02/12/2024] 02:26:08 [INFO] Si deseas utilizar otro mundo, configura en el archivo config.yml.
+
+[02:26:08] [Server thread/INFO]: [02/12/2024] 02:26:08 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+
+[02:26:08] [Server thread/INFO]: [02/12/2024] 02:26:08 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+
+[02:26:08] [Server thread/INFO]: [02/12/2024] 02:26:08 [INFO] El plugin utilizará el mundo Permadeadth_the_end como mundo del End.
+
+[02:26:20] [Server thread/INFO]: R3hsk issued server command: /pdc info
+[02:26:55] [Server thread/INFO]: R3hsk lost connection: Disconnected
+[02:26:55] [Server thread/INFO]: R3hsk ha abandonado el servidor.
+[02:26:58] [Server thread/INFO]: percentyack lost connection: Disconnected
+[02:26:58] [Server thread/INFO]: percentyack ha abandonado el servidor.
+[02:27:47] [Server thread/INFO]: Stopping server
+[02:27:47] [Server thread/INFO]: [Permadeath] Disabling Permadeath v1.3
+[02:27:47] [Server thread/INFO]: ------------------------------------------
+[02:27:47] [Server thread/INFO]:              PERMADEATH
+[02:27:47] [Server thread/INFO]:      - Desactivando el Plugin.
+[02:27:47] [Server thread/INFO]: ------------------------------------------
+[02:27:47] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.13.0
+[02:27:47] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[02:27:47] [Server thread/INFO]: [PlayerRanks] Disabling PlayerRanks v2.0
+[02:27:47] [Server thread/INFO]: [JustTPA] Disabling JustTPA v1.0.0
+[02:27:47] [Server thread/INFO]: [JustTPA] JustTPA plugin has been disabled!
+[02:27:47] [Server thread/INFO]: [Zenchantments] Disabling Zenchantments v1.6.2
+[02:27:47] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.14+6360-094b734
+[02:27:47] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[02:27:47] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[02:27:47] [Server thread/INFO]: [clicksouls] Disabling clicksouls v1.0 beta
+[02:27:47] [Server thread/INFO]: [clicksouls] Plugin off
+[02:27:47] [Server thread/INFO]: [AxShulkers] Disabling AxShulkers v1.15.2
+[02:27:47] [Server thread/INFO]: Saving players
+[02:27:47] [Server thread/INFO]: Saving worlds
+[02:27:47] [Server thread/INFO]: Saving chunks for level 'Permadeadth'/minecraft:overworld
+[02:27:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (Permadeadth): All chunks are saved
+[02:27:47] [Server thread/INFO]: Saving chunks for level 'Permadeadth_the_end'/minecraft:the_end
+[02:27:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:27:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (Permadeadth): All chunks are saved
+[02:27:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:27:47] [Server thread/INFO]: Flushing Chunk IO
+[02:27:47] [Server thread/INFO]: Closing Thread Pool
+[02:27:47] [Server thread/INFO]: Closing Server

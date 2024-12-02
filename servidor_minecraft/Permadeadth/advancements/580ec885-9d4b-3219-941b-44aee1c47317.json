@@ -301,6 +301,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2024-12-02 02:22:45 +0000",
       "enchanted_golden_apple": "2024-12-02 01:50:45 +0000"
     },
     "done": false
@@ -788,7 +789,8 @@
       "minecraft:spider": "2024-12-01 22:03:14 +0000",
       "minecraft:creeper": "2024-12-01 22:02:41 +0000",
       "minecraft:enderman": "2024-12-01 22:03:22 +0000",
-      "minecraft:zombie": "2024-12-01 22:03:03 +0000"
+      "minecraft:zombie": "2024-12-01 22:03:03 +0000",
+      "minecraft:drowned": "2024-12-02 02:22:56 +0000"
     },
     "done": false
   },
