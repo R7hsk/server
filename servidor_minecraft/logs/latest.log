@@ -654,3 +654,7 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [23:13:21] [Server thread/INFO]: percentyack issued server command: /gamemode creative
 [23:13:21] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
 [23:13:43] [Server thread/INFO]: [@: Changed the block at 733922, 67, 747752]
+[23:19:01] [Server thread/INFO]: R3hsk issued server command: /effect give R3hsk minecraft:strength 30 255
+[23:19:01] [Server thread/INFO]: [R3hsk: Applied effect Strength to R3hsk]
+[23:20:34] [Server thread/INFO]: [@: Changed the block at 733922, 67, 747752]
+[23:23:27] [Server thread/INFO]: [@: Changed the block at 733922, 67, 747752]
