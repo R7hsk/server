@@ -667,3 +667,6 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [23:30:43] [Server thread/INFO]: [percentyack: Banned percentyack: Banned by an operator.]
 [23:30:43] [Server thread/INFO]: percentyack lost connection: You are banned from this server
 [23:30:43] [Server thread/INFO]: percentyack ha abandonado el servidor.
+[23:43:01] [User Authenticator #3/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[23:43:01] [Server thread/INFO]: R3hsk se ha unido al servidor.
+[23:43:01] [Server thread/INFO]: R3hsk[/127.205.157.163:55861] logged in with entity id 9104 at ([Permadeadth]733918.8344112367, 75.0, 747718.0402113684)
