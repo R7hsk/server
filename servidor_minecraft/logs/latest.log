@@ -12,3 +12,36 @@
 [00:14:20] [Server thread/INFO]: R3hsk issued server command: /claim R3hsk
 [00:14:56] [Server thread/INFO]: R3hsk issued server command: /claim
 [00:14:57] [Server thread/INFO]: percentyack issued server command: /claim
+[00:15:34] [Server thread/INFO]: percentyack issued server command: /claim
+[00:15:36] [Server thread/INFO]: percentyack issued server command: /claim
+[00:15:49] [Server thread/INFO]: R3hsk issued server command: /help
+[00:15:54] [Server thread/INFO]: R3hsk issued server command: /helpn
+[00:16:00] [Server thread/INFO]: R3hsk issued server command: /help n
+[00:16:02] [Server thread/INFO]: percentyack issued server command: /griefprevention:claimbook
+[00:16:04] [Server thread/INFO]: percentyack issued server command: /griefprevention:claimbook R3hsk
+[00:16:08] [Server thread/INFO]: percentyack issued server command: /griefprevention:claimbook R3hsk
+[00:16:23] [Server thread/INFO]: percentyack issued server command: /griefprevention:createclaim
+[00:17:10] [Server thread/INFO]: R3hsk issued server command: /deleteclaim
+[00:17:10] [Server thread/INFO]: [GriefPrevention] R3hsk deleted R3hsk's claim at Permadeadth: x749904, z749961
+[00:18:27] [Server thread/INFO]: percentyack issued server command: /gamemode survival
+[00:18:27] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
+[00:18:43] [Server thread/INFO]: percentyack issued server command: /tp R3hsk percentyack
+[00:18:43] [Server thread/INFO]: [percentyack: Teleported R3hsk to percentyack]
+[00:18:46] [Server thread/INFO]: percentyack issued server command: /gamemode survival
+[00:18:47] [Server thread/INFO]: percentyack issued server command: /gamemode survival @a
+[00:18:47] [Server thread/INFO]: [percentyack: Set R3hsk's game mode to Survival Mode]
+[00:19:36] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[00:19:36] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[00:19:39] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[00:19:39] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[00:20:06] [Server thread/INFO]: R3hsk issued server command: /permissiontrust R3hsk
+[00:20:27] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[00:21:41] [Server thread/INFO]: percentyack issued server command: /griefprevention:buyclaim percentyack
+[00:21:51] [Server thread/INFO]: percentyack issued server command: /griefprevention:claimbook percentyack
+[00:22:42] [Server thread/INFO]: percentyack issued server command: /ACB
+[00:22:51] [Server thread/INFO]: percentyack issued server command: /ACB percentyack 100000
+[00:22:51] [Server thread/INFO]: [GriefPrevention] percentyack adjusted percentyack's bonus claim blocks by 100000.
+[00:24:16] [Server thread/INFO]: percentyack issued server command: /griefprevention:abandonallclaims
+[00:25:15] [Server thread/INFO]: R3hsk issued server command: /deleteallclaims
+[00:25:20] [Server thread/INFO]: R3hsk issued server command: /deleteallclaims R3hsk
+[00:25:20] [Server thread/INFO]: [GriefPrevention] R3hsk deleted all claims belonging to R3hsk.
