@@ -81,3 +81,21 @@
 [01:22:22] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
 [01:24:53] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:debug_stick
 [01:24:53] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
+[01:27:08] [Server thread/INFO]: percentyack issued server command: /weather clear
+[01:27:08] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[01:27:08] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[01:27:11] [Server thread/INFO]: percentyack issued server command: /time set day
+[01:27:11] [Server thread/INFO]: [percentyack: Set the time to 1000]
+[01:29:15] [Server thread/INFO]: R3hsk has made the advancement [Cover Me With Diamonds]
+[01:32:14] [Server thread/INFO]: percentyack issued server command: /weather clear
+[01:32:14] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[01:32:14] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[01:33:02] [Server thread/INFO]: R3hsk issued server command: /time set night
+[01:33:02] [Server thread/INFO]: [R3hsk: Set the time to 13000]
+[01:33:13] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[01:33:15] [Server thread/INFO]: R3hsk issued server command: /time set day
+[01:33:15] [Server thread/INFO]: [R3hsk: Set the time to 1000]
+[01:34:20] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[01:34:20] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[01:35:11] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[01:35:11] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
