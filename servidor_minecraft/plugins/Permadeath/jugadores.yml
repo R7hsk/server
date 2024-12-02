@@ -3,10 +3,10 @@ Players:
     HP: 0
     LastDay: 1
     UUID: 7692f88a-9b06-33c7-b0b5-53a75a64065d
-    banCause: Mobs
-    banTime: 02:45:52
+    banCause: Vacío
+    banTime: '20:22:39'
     banDay: '2024-12-02'
-    coords: 749916 171 749944
+    coords: 1996 -231 2296
   percentyack:
     UUID: 580ec885-9d4b-3219-941b-44aee1c47317
     HP: 0

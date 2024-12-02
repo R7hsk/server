@@ -1,16 +1,16 @@
-[20:05:17] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[20:05:17] [Server thread/INFO]: Loading properties
-[20:05:17] [Server thread/INFO]: This server is running Paper version git-Paper-393 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
-[20:05:17] [Server thread/INFO]: Debug logging is disabled
-[20:05:17] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:05:17] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:05:17] [Server thread/INFO]: Default game type: SURVIVAL
-[20:05:17] [Server thread/INFO]: Generating keypair
-[20:05:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:05:18] [Server thread/INFO]: Using epoll channel type
-[20:05:18] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[20:05:21] [Server thread/WARN]: Legacy plugin JustTPA v1.0.0 does not specify an api-version.
-[20:05:22] [Server thread/ERROR]: Fatal error trying to convert SetHome-Config v2.3:live/skayu/sethome/Main.class
+[20:27:58] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[20:27:58] [Server thread/INFO]: Loading properties
+[20:27:58] [Server thread/INFO]: This server is running Paper version git-Paper-393 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[20:27:58] [Server thread/INFO]: Debug logging is disabled
+[20:27:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:27:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:27:58] [Server thread/INFO]: Default game type: SURVIVAL
+[20:27:58] [Server thread/INFO]: Generating keypair
+[20:27:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:27:58] [Server thread/INFO]: Using epoll channel type
+[20:27:59] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[20:28:02] [Server thread/WARN]: Legacy plugin JustTPA v1.0.0 does not specify an api-version.
+[20:28:02] [Server thread/ERROR]: Fatal error trying to convert SetHome-Config v2.3:live/skayu/sethome/Main.class
 java.lang.IllegalArgumentException: Unsupported class file major version 61
 	at org.bukkit.craftbukkit.libs.org.objectweb.asm.ClassReader.<init>(ClassReader.java:196) ~[patched_1.15.2.jar:git-Paper-393]
 	at org.bukkit.craftbukkit.libs.org.objectweb.asm.ClassReader.<init>(ClassReader.java:177) ~[patched_1.15.2.jar:git-Paper-393]
@@ -33,7 +33,7 @@ java.lang.IllegalArgumentException: Unsupported class file major version 61
 	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:234) ~[patched_1.15.2.jar:git-Paper-393]
 	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:909) ~[patched_1.15.2.jar:git-Paper-393]
 	at java.lang.Thread.run(Thread.java:829) [?:?]
-[20:05:22] [Server thread/ERROR]: Could not load 'plugins/SetHome.jar' in folder 'plugins'
+[20:28:02] [Server thread/ERROR]: Could not load 'plugins/SetHome.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:141) ~[patched_1.15.2.jar:git-Paper-393]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:397) ~[patched_1.15.2.jar:git-Paper-393]
@@ -57,232 +57,238 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoader.java:68) ~[patched_1.15.2.jar:git-Paper-393]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoader.java:137) ~[patched_1.15.2.jar:git-Paper-393]
 	... 6 more
-[20:05:22] [Server thread/WARN]: Legacy plugin PlayerRanks v2.0 does not specify an api-version.
-[20:05:22] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.4.4
-[20:05:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.14+6360-094b734
-[20:05:22] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5575abcd]
-[20:05:22] [Server thread/INFO]: [JustTPA] Loading JustTPA v1.0.0
-[20:05:22] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
-[20:05:22] [Server thread/INFO]: [AxShulkers] Loading AxShulkers v1.15.2
-[20:05:22] [Server thread/INFO]: [clicksouls] Loading clicksouls v1.0 beta
-[20:05:22] [Server thread/INFO]: [Permadeath] Loading Permadeath v1.3
-[20:05:22] [Server thread/INFO]: [Zenchantments] Loading Zenchantments v1.6.2
-[20:05:22] [Server thread/INFO]: [PlayerRanks] Loading PlayerRanks v2.0
-[20:05:22] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.3;5407315
-[20:05:22] [Server thread/INFO]: [PvPManager] Loading PvPManager v3.18.26
-[20:05:22] [Server thread/INFO]: [PvPManager] Loading library HikariCP
-[20:05:22] [Server thread/INFO]: [PvPManager] Library HikariCP loaded!
-[20:05:22] [Server thread/INFO]: [PvPManager] Loading library slf4j-api
-[20:05:22] [Server thread/INFO]: [PvPManager] Library slf4j-api loaded!
-[20:05:22] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
-[20:05:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:05:22] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[20:05:23] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[20:05:23] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.15.2[32;1m.[0;39m
-[20:05:24] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[20:05:24] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYour Java version "11" is not supported! SkinsRestorer now uses Java 17 primarily.[0;39m
-[20:05:24] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mThe plugin was "downgraded" to Java 1.8 (Java 8) to ensure compatibility with your server, but it may cause issues.[0;39m
-[20:05:24] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mThe plugin still works, but it may have Java version related issues.[0;39m
-[20:05:24] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your server Java version to 17 or higher to get the best performance, security and to avoid issues with SkinsRestorer.[0;39m
-[20:05:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.14+6360-094b734
-[20:05:24] [Server thread/INFO]: [WorldEdit] Bukkit PluginClassLoader seems to have changed. Class source validation will be skipped.
-[20:05:24] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[20:05:24] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[20:05:24] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
-[20:05:25] [Server thread/INFO]: [Permadeath] Enabling Permadeath v1.3
-[20:05:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:05:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:05:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:05:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:05:25] [Server thread/INFO]: Preparing level "Permadeadth"
-[20:05:26] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[20:05:32] [Server thread/INFO]: Loaded 6 recipes
-[20:05:33] [Server thread/INFO]: -------- World Settings For [Permadeadth] --------
-[20:05:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[20:05:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[20:05:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[20:05:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[20:05:33] [Server thread/INFO]: Max TNT Explosions: 100
-[20:05:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:05:33] [Server thread/INFO]: Mob Spawn Range: 8
-[20:05:33] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:05:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: View Distance: 10
-[20:05:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:05:33] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:05:33] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:05:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:05:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:05:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:05:33] [Server thread/INFO]: -------- World Settings For [Permadeadth_the_end] --------
-[20:05:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[20:05:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[20:05:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[20:05:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
-[20:05:33] [Server thread/INFO]: Max TNT Explosions: 100
-[20:05:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[20:05:33] [Server thread/INFO]: Mob Spawn Range: 8
-[20:05:33] [Server thread/INFO]: Experience Merge Radius: 3.0
-[20:05:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Cane Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Melon Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Potato Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Vine Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[20:05:33] [Server thread/INFO]: View Distance: 10
-[20:05:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[20:05:33] [Server thread/INFO]: Item Merge Radius: 2.5
-[20:05:33] [Server thread/INFO]: Item Despawn Rate: 6000
-[20:05:33] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[20:05:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[20:05:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[20:05:33] [Server thread/INFO]: Preparing start region for dimension 'Permadeadth'/minecraft:overworld
-[20:05:33] [Server thread/INFO]: Loaded 0 spawn chunks for world Permadeadth
-[20:05:33] [Server thread/INFO]: Preparing spawn area: 0%
-[20:05:33] [Server thread/INFO]: Preparing spawn area: 0%
-[20:05:34] [Server thread/INFO]: Time elapsed: 902 ms
-[20:05:34] [Server thread/INFO]: Preparing start region for dimension 'Permadeadth_the_end'/minecraft:the_end
-[20:05:34] [Server thread/INFO]: Loaded 0 spawn chunks for world Permadeadth_the_end
-[20:05:34] [Server thread/INFO]: Preparing spawn area: 0%
-[20:05:34] [Server thread/INFO]: Time elapsed: 350 ms
-[20:05:34] [Server thread/INFO]: [JustTPA] Enabling JustTPA v1.0.0*
-[20:05:34] [Server thread/INFO]: [JustTPA] JustTPA plugin has been enabled!
-[20:05:34] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
-[20:05:34] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[20:05:34] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[20:05:34] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 1: Initial
-[20:05:34] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 2: Add uuid mode
-[20:05:34] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 3: Fix inventories
-[20:05:34] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[20:05:34] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[20:05:34] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[20:05:34] [Server thread/INFO]: [AxShulkers] Enabling AxShulkers v1.15.2
-[20:05:35] [Server thread/INFO]: [AxShulkers] Loaded plugin! Using H2 database to store data!
-[20:05:35] [Server thread/INFO]: [clicksouls] Enabling clicksouls v1.0 beta
-[20:05:35] [Server thread/INFO]: [clicksouls] Plugin on
-[20:05:35] [Server thread/INFO]: [Zenchantments] Enabling Zenchantments v1.6.2
-[20:05:35] [Server thread/INFO]: Zenchantments: Detected NMS version "v1_15_R1"
-[20:05:35] [Server thread/INFO]: [PlayerRanks] Enabling PlayerRanks v2.0*
-[20:05:35] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.3;5407315
-[20:05:35] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CRIMSON_FUNGUS
-[20:05:35] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.WARPED_FUNGUS
-[20:05:35] [Server thread/INFO]: [WorldGuard] (Permadeadth) TNT ignition is PERMITTED.
-[20:05:35] [Server thread/INFO]: [WorldGuard] (Permadeadth) Lighters are PERMITTED.
-[20:05:35] [Server thread/INFO]: [WorldGuard] (Permadeadth) Lava fire is PERMITTED.
-[20:05:35] [Server thread/INFO]: [WorldGuard] (Permadeadth) Fire spread is UNRESTRICTED.
-[20:05:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Permadeadth'
-[20:05:35] [Server thread/INFO]: [WorldGuard] (Permadeadth_the_end) TNT ignition is PERMITTED.
-[20:05:35] [Server thread/INFO]: [WorldGuard] (Permadeadth_the_end) Lighters are PERMITTED.
-[20:05:35] [Server thread/INFO]: [WorldGuard] (Permadeadth_the_end) Lava fire is PERMITTED.
-[20:05:35] [Server thread/INFO]: [WorldGuard] (Permadeadth_the_end) Fire spread is UNRESTRICTED.
-[20:05:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Permadeadth_the_end'
-[20:05:35] [Server thread/INFO]: [WorldGuard] Loading region data...
-[20:05:35] [Server thread/INFO]: [PvPManager] Enabling PvPManager v3.18.26
-[20:05:35] [Server thread/INFO]: [PvPManager] Using player nametags: true
-[20:05:35] [Server thread/INFO]: [PvPManager] Connected to SQLITE database successfully
-[20:05:35] [Server thread/INFO]: [PvPManager] Players stored: 2
-[20:05:35] [Server thread/WARN]: [PvPManager] GriefPrevention has been detected. GriefPrevention has some combat features without showing any feedback messages. Make sure to disable Punish Logout and set tag time to 0 seconds in GP config. Issues with those features often get wrongly blamed on PvPManager and cause conflicts due to the lack of GP feedback messages.
-[20:05:35] [Server thread/INFO]: [PvPManager] WorldGuard Found! Enabling Support For WorldGuard Regions
-[20:05:35] [Server thread/WARN]: [PvPManager] Vault not found! Features requiring Vault won't work!
-[20:05:35] [Server thread/ERROR]: [PvPManager] You appear to be using Java 15 or lower. For now the plugin still works but please update to Java 16+
-[20:05:35] [Server thread/ERROR]: [PvPManager] In the future PvPManager will stop supporting Java versions this old
-[20:05:35] [Server thread/INFO]: [PvPManager] PvPManager v3.18.26 enabled (86 ms)
-[20:05:35] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
-[20:05:35] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
-[20:05:35] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
-[20:05:35] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
-[20:05:35] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
-[20:05:35] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
-[20:05:35] [Server thread/INFO]: [GriefPrevention] Boot finished.
-[20:05:35] [Server thread/INFO]: Running delayed init tasks
-[20:05:35] [Server thread/INFO]: Permadeath ➤ No se ha encontrado una librería JDA, deberás instalar una en caso de querer utilizar un bot de Discord.
-[20:05:35] [Server thread/INFO]: Descarga aquí: https://www.spigotmc.org/resources/permadeath-%E2%98%A0%EF%B8%8F.112343/
-[20:05:35] [Server thread/INFO]: Si no puedes descargarlo allí, únete a este Discord y te daremos acceso al enlace: https://discord.gg/8evPbuxPke
-[20:05:35] [Server thread/INFO]: [02/12/2024] 20:05:35 [ERROR] Error al cargar el mundo principal, esto hará que los Death Train no se presenten.
+[20:28:02] [Server thread/WARN]: Legacy plugin PlayerRanks v2.0 does not specify an api-version.
+[20:28:02] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.4.4
+[20:28:02] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.14+6360-094b734
+[20:28:03] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@62fcda20]
+[20:28:03] [Server thread/INFO]: [JustTPA] Loading JustTPA v1.0.0
+[20:28:03] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.2.0
+[20:28:03] [Server thread/INFO]: [AxShulkers] Loading AxShulkers v1.15.2
+[20:28:03] [Server thread/INFO]: [clicksouls] Loading clicksouls v1.0 beta
+[20:28:03] [Server thread/INFO]: [Permadeath] Loading Permadeath v1.3
+[20:28:03] [Server thread/INFO]: [Zenchantments] Loading Zenchantments v1.6.2
+[20:28:03] [Server thread/INFO]: [PlayerRanks] Loading PlayerRanks v2.0
+[20:28:03] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.3;5407315
+[20:28:03] [Server thread/INFO]: [PvPManager] Loading PvPManager v3.18.26
+[20:28:03] [Server thread/INFO]: [PvPManager] Loading library HikariCP
+[20:28:03] [Server thread/INFO]: [PvPManager] Library HikariCP loaded!
+[20:28:03] [Server thread/INFO]: [PvPManager] Loading library slf4j-api
+[20:28:03] [Server thread/INFO]: [PvPManager] Library slf4j-api loaded!
+[20:28:03] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[20:28:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:28:03] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[20:28:04] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[20:28:04] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.15.2[32;1m.[0;39m
+[20:28:05] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[20:28:05] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYour Java version "11" is not supported! SkinsRestorer now uses Java 17 primarily.[0;39m
+[20:28:05] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mThe plugin was "downgraded" to Java 1.8 (Java 8) to ensure compatibility with your server, but it may cause issues.[0;39m
+[20:28:05] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mThe plugin still works, but it may have Java version related issues.[0;39m
+[20:28:05] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your server Java version to 17 or higher to get the best performance, security and to avoid issues with SkinsRestorer.[0;39m
+[20:28:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.14+6360-094b734
+[20:28:05] [Server thread/INFO]: [WorldEdit] Bukkit PluginClassLoader seems to have changed. Class source validation will be skipped.
+[20:28:05] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:28:05] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:28:05] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[20:28:06] [Server thread/INFO]: [Permadeath] Enabling Permadeath v1.3
+[20:28:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:28:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:28:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:28:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:28:06] [Server thread/INFO]: Preparing level "Permadeadth"
+[20:28:06] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[20:28:13] [Server thread/INFO]: Loaded 6 recipes
+[20:28:14] [Server thread/INFO]: -------- World Settings For [Permadeadth] --------
+[20:28:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:28:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:28:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:28:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:28:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[20:28:14] [Server thread/INFO]: Max TNT Explosions: 100
+[20:28:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:28:14] [Server thread/INFO]: Mob Spawn Range: 8
+[20:28:14] [Server thread/INFO]: View Distance: 10
+[20:28:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:28:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:28:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:28:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:28:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:28:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:28:14] [Server thread/INFO]: -------- World Settings For [Permadeadth_the_end] --------
+[20:28:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[20:28:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[20:28:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[20:28:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[20:28:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[20:28:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[20:28:14] [Server thread/INFO]: Max TNT Explosions: 100
+[20:28:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[20:28:14] [Server thread/INFO]: Mob Spawn Range: 8
+[20:28:14] [Server thread/INFO]: View Distance: 10
+[20:28:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[20:28:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[20:28:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[20:28:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[20:28:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[20:28:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[20:28:14] [Server thread/INFO]: Preparing start region for dimension 'Permadeadth'/minecraft:overworld
+[20:28:14] [Server thread/INFO]: Loaded 0 spawn chunks for world Permadeadth
+[20:28:14] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:15] [Server thread/INFO]: Time elapsed: 940 ms
+[20:28:15] [Server thread/INFO]: Preparing start region for dimension 'Permadeadth_the_end'/minecraft:the_end
+[20:28:15] [Server thread/INFO]: Loaded 0 spawn chunks for world Permadeadth_the_end
+[20:28:15] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:15] [Server thread/INFO]: Preparing spawn area: 56%
+[20:28:16] [Server thread/INFO]: Time elapsed: 555 ms
+[20:28:16] [Server thread/INFO]: [JustTPA] Enabling JustTPA v1.0.0*
+[20:28:16] [Server thread/INFO]: [JustTPA] JustTPA plugin has been enabled!
+[20:28:16] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.2.0
+[20:28:16] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[20:28:16] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[20:28:16] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[20:28:16] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[20:28:16] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[20:28:16] [Server thread/INFO]: [AxShulkers] Enabling AxShulkers v1.15.2
+[20:28:16] [Server thread/INFO]: [AxShulkers] Loaded plugin! Using H2 database to store data!
+[20:28:16] [Server thread/INFO]: [clicksouls] Enabling clicksouls v1.0 beta
+[20:28:16] [Server thread/INFO]: [clicksouls] Plugin on
+[20:28:16] [Server thread/INFO]: [Zenchantments] Enabling Zenchantments v1.6.2
+[20:28:16] [Server thread/INFO]: Zenchantments: Detected NMS version "v1_15_R1"
+[20:28:16] [Server thread/INFO]: [PlayerRanks] Enabling PlayerRanks v2.0*
+[20:28:16] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.3;5407315
+[20:28:16] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CRIMSON_FUNGUS
+[20:28:16] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.WARPED_FUNGUS
+[20:28:16] [Server thread/INFO]: [WorldGuard] (Permadeadth) TNT ignition is PERMITTED.
+[20:28:16] [Server thread/INFO]: [WorldGuard] (Permadeadth) Lighters are PERMITTED.
+[20:28:16] [Server thread/INFO]: [WorldGuard] (Permadeadth) Lava fire is PERMITTED.
+[20:28:16] [Server thread/INFO]: [WorldGuard] (Permadeadth) Fire spread is UNRESTRICTED.
+[20:28:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Permadeadth'
+[20:28:16] [Server thread/INFO]: [WorldGuard] (Permadeadth_the_end) TNT ignition is PERMITTED.
+[20:28:16] [Server thread/INFO]: [WorldGuard] (Permadeadth_the_end) Lighters are PERMITTED.
+[20:28:16] [Server thread/INFO]: [WorldGuard] (Permadeadth_the_end) Lava fire is PERMITTED.
+[20:28:16] [Server thread/INFO]: [WorldGuard] (Permadeadth_the_end) Fire spread is UNRESTRICTED.
+[20:28:16] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Permadeadth_the_end'
+[20:28:16] [Server thread/INFO]: [WorldGuard] Loading region data...
+[20:28:17] [Server thread/INFO]: [PvPManager] Enabling PvPManager v3.18.26
+[20:28:17] [Server thread/INFO]: [PvPManager] Using player nametags: true
+[20:28:17] [Server thread/INFO]: [PvPManager] Connected to SQLITE database successfully
+[20:28:17] [Server thread/INFO]: [PvPManager] Players stored: 2
+[20:28:17] [Server thread/WARN]: [PvPManager] GriefPrevention has been detected. GriefPrevention has some combat features without showing any feedback messages. Make sure to disable Punish Logout and set tag time to 0 seconds in GP config. Issues with those features often get wrongly blamed on PvPManager and cause conflicts due to the lack of GP feedback messages.
+[20:28:17] [Server thread/INFO]: [PvPManager] WorldGuard Found! Enabling Support For WorldGuard Regions
+[20:28:17] [Server thread/WARN]: [PvPManager] Vault not found! Features requiring Vault won't work!
+[20:28:17] [Server thread/ERROR]: [PvPManager] You appear to be using Java 15 or lower. For now the plugin still works but please update to Java 16+
+[20:28:17] [Server thread/ERROR]: [PvPManager] In the future PvPManager will stop supporting Java versions this old
+[20:28:17] [Server thread/INFO]: [PvPManager] PvPManager v3.18.26 enabled (95 ms)
+[20:28:17] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[20:28:17] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[20:28:17] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
+[20:28:17] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[20:28:17] [Server thread/INFO]: [GriefPrevention] Successfully hooked into WorldGuard.
+[20:28:17] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[20:28:17] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[20:28:17] [Server thread/INFO]: Running delayed init tasks
+[20:28:17] [Server thread/INFO]: Permadeath ➤ No se ha encontrado una librería JDA, deberás instalar una en caso de querer utilizar un bot de Discord.
+[20:28:17] [Server thread/INFO]: Descarga aquí: https://www.spigotmc.org/resources/permadeath-%E2%98%A0%EF%B8%8F.112343/
+[20:28:17] [Server thread/INFO]: Si no puedes descargarlo allí, únete a este Discord y te daremos acceso al enlace: https://discord.gg/8evPbuxPke
+[20:28:17] [Server thread/INFO]: [02/12/2024] 20:28:17 [ERROR] Error al cargar el mundo principal, esto hará que los Death Train no se presenten.
 
-[20:05:35] [Server thread/INFO]: [02/12/2024] 20:05:35 [ERROR] Abre el archivo config.yml y establece el mundo principal en la opción: MainWorld
+[20:28:17] [Server thread/INFO]: [02/12/2024] 20:28:17 [ERROR] Abre el archivo config.yml y establece el mundo principal en la opción: MainWorld
 
-[20:05:35] [Server thread/INFO]: [02/12/2024] 20:05:35 [INFO] El plugin utilizará el mundo Permadeadth como mundo principal.
+[20:28:17] [Server thread/INFO]: [02/12/2024] 20:28:17 [INFO] El plugin utilizará el mundo Permadeadth como mundo principal.
 
-[20:05:35] [Server thread/INFO]: [02/12/2024] 20:05:35 [INFO] Si deseas utilizar otro mundo, configura en el archivo config.yml.
+[20:28:17] [Server thread/INFO]: [02/12/2024] 20:28:17 [INFO] Si deseas utilizar otro mundo, configura en el archivo config.yml.
 
-[20:05:35] [Server thread/INFO]: [02/12/2024] 20:05:35 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+[20:28:17] [Server thread/INFO]: [02/12/2024] 20:28:17 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
 
-[20:05:35] [Server thread/INFO]: [02/12/2024] 20:05:35 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+[20:28:17] [Server thread/INFO]: [02/12/2024] 20:28:17 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
 
-[20:05:35] [Server thread/INFO]: [02/12/2024] 20:05:35 [INFO] El plugin utilizará el mundo Permadeadth_the_end como mundo del End.
+[20:28:17] [Server thread/INFO]: [02/12/2024] 20:28:17 [INFO] El plugin utilizará el mundo Permadeadth_the_end como mundo del End.
 
-[20:05:35] [Server thread/INFO]: ------------------------------------------
-[20:05:35] [Server thread/INFO]:              PERMADEATH
-[20:05:35] [Server thread/INFO]:      - Versión: 1.3
-[20:05:35] [Server thread/INFO]:      - Versión del Servidor: v1.15
-[20:05:35] [Server thread/INFO]: ------------------------------------------
-[20:05:35] [Server thread/INFO]:  >> INFORME DE ESTADO
-[20:05:35] [Server thread/INFO]: > Estado de mundos: Overworld: Permadeadth End: Permadeadth
-[20:05:35] [Server thread/INFO]:     > End: Permadeadth
-[20:05:35] [Server thread/INFO]:     > Overworld: Permadeadth
-[20:05:35] [Server thread/INFO]: > Estado de Compatibilidad: Compatible
-[20:05:35] [Server thread/INFO]: > Software: PaperMC (Compatible)
-[20:05:35] [Server thread/INFO]: > Cambios:
-[20:05:35] [Server thread/INFO]: >   Días disponibles: 1-60
-[20:05:35] [Server thread/INFO]: [PlayerRanks] Searching for an update on 'spigotmc.org'..
-[20:05:36] [Server thread/INFO]: [PlayerRanks] There was a new version found. It is recommended to update. (Visit spigotmc.org)
-[20:05:36] [Server thread/INFO]: Done (18.921s)! For help, type "help"
-[20:05:36] [Server thread/INFO]: Timings Reset
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[20:05:36] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[20:05:36] [Craft Scheduler Thread - 3/INFO]: Permadeath ➤ Versión del plugin: Versión más reciente instalada.
-[20:05:38] [PvPManager Worker Thread - 0/INFO]: [PvPManager] Checking for updates...
-[20:05:38] [PvPManager Worker Thread - 0/INFO]: [PvPManager] No update found
-[20:05:38] [Craft Scheduler Thread - 1/INFO]: AxShulkers » There is a new version of AxShulkers available! (current: 1.15.2 | latest: 1.16.0)
-[20:08:23] [User Authenticator #1/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
-[20:08:23] [Server thread/INFO]: R3hsk se ha unido al servidor.
-[20:08:23] [Server thread/INFO]: R3hsk[/127.205.157.163:55331] logged in with entity id 183 at ([Permadeadth]749901.8583093325, 181.0, 749937.2845309664)
-[20:09:26] [Server thread/INFO]: R3hsk issued server command: /whitelist list
-[20:10:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_15_R1! Trying to find NMS support
-[20:10:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_15_R1' loaded!
-[20:10:10] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AxShulkers' to create a bStats instance!
-[20:14:28] [Server thread/INFO]: R3hsk issued server command: //fill end_portal
-[20:14:40] [Server thread/INFO]: R3hsk issued server command: /fill 749872 170 749986 749872 170 749986 minecraft:end_portal
-[20:14:40] [Server thread/INFO]: [R3hsk: Successfully filled 1 blocks]
-[20:14:41] [Server thread/INFO]: R3hsk has made the advancement [The End?]
-[20:14:41] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[20:14:41] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[20:15:05] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
-[20:15:05] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[20:28:17] [Server thread/INFO]: ------------------------------------------
+[20:28:17] [Server thread/INFO]:              PERMADEATH
+[20:28:17] [Server thread/INFO]:      - Versión: 1.3
+[20:28:17] [Server thread/INFO]:      - Versión del Servidor: v1.15
+[20:28:17] [Server thread/INFO]: ------------------------------------------
+[20:28:17] [Server thread/INFO]:  >> INFORME DE ESTADO
+[20:28:17] [Server thread/INFO]: > Estado de mundos: Overworld: Permadeadth End: Permadeadth
+[20:28:17] [Server thread/INFO]:     > End: Permadeadth
+[20:28:17] [Server thread/INFO]:     > Overworld: Permadeadth
+[20:28:17] [Server thread/INFO]: > Estado de Compatibilidad: Compatible
+[20:28:17] [Server thread/INFO]: > Software: PaperMC (Compatible)
+[20:28:17] [Server thread/INFO]: > Cambios:
+[20:28:17] [Server thread/INFO]: >   Días disponibles: 1-60
+[20:28:17] [Server thread/INFO]: [PlayerRanks] Searching for an update on 'spigotmc.org'..
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[20:28:17] [Server thread/INFO]: [PlayerRanks] There was a new version found. It is recommended to update. (Visit spigotmc.org)
+[20:28:17] [Server thread/INFO]: Done (19.771s)! For help, type "help"
+[20:28:17] [Server thread/INFO]: Timings Reset
+[20:28:17] [Craft Scheduler Thread - 2/INFO]: Permadeath ➤ Versión del plugin: Versión más reciente instalada.
+[20:28:18] [User Authenticator #1/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[20:28:18] [Server thread/INFO]: percentyack se ha unido al servidor.
+[20:28:18] [Server thread/INFO]: percentyack[/127.202.181.42:57787] logged in with entity id 192 at ([Permadeadth]749905.5942201068, 181.0, 749938.9924808714)
+[20:28:19] [Craft Scheduler Thread - 1/INFO]: AxShulkers » There is a new version of AxShulkers available! (current: 1.15.2 | latest: 1.16.0)
+[20:28:20] [PvPManager Worker Thread - 0/INFO]: [PvPManager] Checking for updates...
+[20:28:20] [PvPManager Worker Thread - 0/INFO]: [PvPManager] No update found
+[20:28:25] [User Authenticator #1/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[20:28:25] [Server thread/INFO]: R3hsk se ha unido al servidor.
+[20:28:25] [Server thread/INFO]: R3hsk[/127.205.157.163:49157] logged in with entity id 234 at ([Permadeadth]749904.6580193221, 178.0, 749956.6402678135)
+[20:28:46] [Server thread/INFO]: percentyack issued server command: /sethome lol
+[20:29:06] [Server thread/INFO]: percentyack issued server command: /sethome
+[20:29:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_15_R1! Trying to find NMS support
+[20:29:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_15_R1' loaded!
+[20:29:06] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AxShulkers' to create a bStats instance!
+[20:29:48] [Server thread/INFO]: R3hsk issued server command: /fill 749872 170 749986 749872 170 749986 air
+[20:29:48] [Server thread/INFO]: [R3hsk: Successfully filled 1 blocks]
+[20:32:33] [Server thread/INFO]: percentyack issued server command: /weather clear
+[20:32:33] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[20:32:33] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[20:32:41] [Server thread/INFO]: percentyack issued server command: /time set day
+[20:32:41] [Server thread/INFO]: [percentyack: Set the time to 1000]
+[20:35:16] [Server thread/INFO]: percentyack issued server command: /give R3hsk minecraft:debug_stick
+[20:35:16] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to R3hsk]
+[20:36:34] [Server thread/WARN]: Skipping Entity with id 
+[20:37:30] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[20:37:30] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
