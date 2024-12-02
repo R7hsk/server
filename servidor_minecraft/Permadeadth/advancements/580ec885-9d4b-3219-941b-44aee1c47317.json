@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-02 21:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-02 00:41:42 +0000"
@@ -722,6 +728,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-01 22:03:06 +0000",
+      "minecraft:vindicator": "2024-12-02 21:27:24 +0000",
       "minecraft:spider": "2024-12-01 22:03:14 +0000",
       "minecraft:creeper": "2024-12-01 22:02:41 +0000",
       "minecraft:enderman": "2024-12-01 22:03:22 +0000",
