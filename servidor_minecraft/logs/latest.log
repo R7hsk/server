@@ -305,3 +305,48 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [21:29:26] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
 [21:29:26] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
 [21:32:31] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
+[21:34:07] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[21:34:07] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[21:34:31] [Server thread/INFO]: R3hsk issued server command: /pdc give netheriteArmor
+[21:34:57] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[21:34:57] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[21:35:11] [Server thread/INFO]: Set the weather to rain & thunder
+[21:35:11] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[21:35:11] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[21:35:11] [Server thread/INFO]: X: 733922 || Y: 67 || Z: 747742
+[21:35:11] [Server thread/INFO]: R3hsk was slain by Vindicador using [Hacha de diamante]
+[21:35:16] [Server thread/INFO]: ¡Comienza el Death Train con duración de 1 horas!
+[21:35:21] [Server thread/INFO]: R3hsk issued server command: /weather clear
+[21:35:21] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[21:35:21] [Server thread/INFO]: [R3hsk: Set the weather to clear]
+[21:35:26] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[21:35:26] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[21:35:35] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[21:35:35] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[21:35:54] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[21:35:54] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[21:36:27] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[21:36:27] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[21:36:35] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[21:36:35] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[21:37:02] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:37:05] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:37:06] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:37:07] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:37:39] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[21:37:39] [Server thread/INFO]: R3hsk has reached the goal [Postmortal]
+[21:38:10] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:38:11] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:38:12] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:38:13] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:38:15] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:38:30] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[21:38:43] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[21:39:04] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[21:39:04] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[21:39:33] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[21:39:33] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[21:39:39] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[21:39:39] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[21:41:26] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
+[21:42:45] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
