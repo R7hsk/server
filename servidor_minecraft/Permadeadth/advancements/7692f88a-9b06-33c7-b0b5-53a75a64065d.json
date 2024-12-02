@@ -548,6 +548,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-01 22:02:24 +0000",
+      "minecraft:ravager": "2024-12-02 21:52:19 +0000",
       "minecraft:vindicator": "2024-12-02 21:14:38 +0000",
       "minecraft:spider": "2024-12-01 21:56:19 +0000",
       "minecraft:creeper": "2024-12-01 21:55:43 +0000",

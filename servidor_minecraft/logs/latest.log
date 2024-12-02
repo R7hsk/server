@@ -379,3 +379,70 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [21:53:00] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
 [21:53:15] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
 [21:53:37] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
+[21:53:48] [Server thread/INFO]: Set the weather to rain & thunder
+[21:53:48] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[21:53:48] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[21:53:48] [Server thread/INFO]: X: 733914 || Y: 75 || Z: 747708
+[21:53:48] [Server thread/INFO]: R3hsk was slain by Vindicador using [Hacha de diamante]
+[21:53:53] [Server thread/INFO]: ¡Comienza el Death Train con duración de 1 horas!
+[21:53:58] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[21:53:58] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[21:54:04] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[21:54:04] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[21:54:11] [Server thread/INFO]: Set the weather to rain & thunder
+[21:54:11] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[21:54:11] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[21:54:11] [Server thread/INFO]: X: 733886 || Y: 75 || Z: 747707
+[21:54:16] [Server thread/INFO]: ¡Comienza el Death Train con duración de 1 horas!
+[21:54:18] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[21:54:18] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[21:54:26] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[21:54:26] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[21:55:19] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
+[21:55:27] [Server thread/INFO]: R3hsk issued server command: /pdc give netheriteArmor
+[21:55:36] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
+[21:55:39] [Server thread/INFO]: R3hsk issued server command: /pdc give netheriteTools
+[21:56:09] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[21:56:09] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[21:56:25] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:56:26] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:56:27] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:56:27] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:looting 3
+[21:56:27] [Server thread/INFO]: [percentyack: Applied enchantment Looting III to percentyack's item]
+[21:56:28] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:56:52] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[21:57:11] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:58:04] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:58:21] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:58:24] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:58:25] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to R3hsk]
+[21:59:11] [Server thread/INFO]: R3hsk issued server command: /pdc give infernalArmor
+[21:59:48] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[21:59:48] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[22:00:04] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:04] [Server thread/INFO]: [percentyack: Applied enchantment Protection II to R3hsk's item]
+[22:00:05] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:05] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:06] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:06] [Server thread/INFO]: [percentyack: Applied enchantment Protection II to R3hsk's item]
+[22:00:06] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:07] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:08] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:08] [Server thread/INFO]: [percentyack: Applied enchantment Protection II to R3hsk's item]
+[22:00:09] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:09] [Server thread/INFO]: [percentyack: Applied enchantment Protection II to R3hsk's item]
+[22:00:10] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:11] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:11] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:12] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:protection 2
+[22:00:35] [Server thread/INFO]: percentyack issued server command: /enchant R3hsk minecraft:sharpness 2
+[22:00:35] [Server thread/INFO]: [percentyack: Applied enchantment Sharpness II to R3hsk's item]
+[22:00:37] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[22:00:37] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[22:01:20] [Server thread/INFO]: [@: Gave 1 [Vindicator Spawn Egg] to percentyack]
+[22:01:41] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:spawner
+[22:01:41] [Server thread/INFO]: [percentyack: Gave 1 [Spawner] to percentyack]
+[22:02:33] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:command_block
+[22:02:33] [Server thread/INFO]: [percentyack: Gave 1 [Command Block] to percentyack]
+[22:02:51] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:command_block
+[22:02:51] [Server thread/INFO]: [percentyack: Gave 1 [Command Block] to percentyack]
