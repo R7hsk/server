@@ -446,3 +446,56 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [22:02:33] [Server thread/INFO]: [percentyack: Gave 1 [Command Block] to percentyack]
 [22:02:51] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:command_block
 [22:02:51] [Server thread/INFO]: [percentyack: Gave 1 [Command Block] to percentyack]
+[22:06:53] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:vindicator
+[22:06:53] [Server thread/INFO]: [R3hsk: Summoned new Vindicator]
+[22:07:16] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:sharpness 1
+[22:07:16] [Server thread/INFO]: [R3hsk: Applied enchantment Sharpness I to R3hsk's item]
+[22:07:33] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:ravager
+[22:07:33] [Server thread/INFO]: [R3hsk: Summoned new Ravager]
+[22:07:44] [Server thread/INFO]: [@: Changed the block at 733917, 66, 747713]
+[22:08:22] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[22:08:22] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[22:08:49] [Server thread/INFO]: R3hsk issued server command: /pdc give netheriteTools
+[22:09:08] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:protection 4
+[22:09:08] [Server thread/INFO]: [R3hsk: Applied enchantment Protection IV to R3hsk's item]
+[22:09:14] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:protection 4
+[22:09:14] [Server thread/INFO]: [R3hsk: Applied enchantment Protection IV to R3hsk's item]
+[22:09:22] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:protection 4
+[22:09:22] [Server thread/INFO]: [R3hsk: Applied enchantment Protection IV to R3hsk's item]
+[22:09:29] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:protection 4
+[22:09:29] [Server thread/INFO]: [R3hsk: Applied enchantment Protection IV to R3hsk's item]
+[22:09:37] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[22:09:37] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[22:09:40] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:rabbit
+[22:09:40] [Server thread/INFO]: [R3hsk: Summoned new Rabbit]
+[22:09:50] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:ravager
+[22:09:50] [Server thread/INFO]: [R3hsk: Summoned new Ravager]
+[22:10:20] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:sharpness 5
+[22:10:20] [Server thread/INFO]: [R3hsk: Applied enchantment Sharpness V to R3hsk's item]
+[22:10:29] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:ravager
+[22:10:29] [Server thread/INFO]: [R3hsk: Summoned new Ravager]
+[22:10:50] [Server thread/INFO]: [@: Changed the block at 733917, 66, 747713]
+[22:11:31] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:iron_golem
+[22:11:31] [Server thread/INFO]: [R3hsk: Summoned new Iron Golem]
+[22:11:37] [Server thread/INFO]: R3hsk has made the advancement [Acquire Hardware]
+[22:12:11] [Server thread/INFO]: R3hsk issued server command: /pdc
+[22:13:08] [Server thread/INFO]: R3hsk issued server command: /pdc give medalla
+[22:13:41] [Server thread/INFO]: R3hsk issued server command: /pdc give infernal block
+[22:14:06] [Server thread/INFO]: [@: Changed the block at 733917, 67, 747713]
+[22:14:09] [Server thread/INFO]: R3hsk issued server command: /pdc give infernalBlock
+[22:15:08] [Server thread/INFO]: R3hsk issued server command: /pdc give lifeOrv
+[22:15:18] [Server thread/INFO]: R3hsk issued server command: /pdc give lifeOrb
+[22:16:49] [Server thread/INFO]: R3hsk issued server command: /pdc give endRelic
+[22:17:03] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[22:17:03] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[22:17:17] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[22:17:21] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[22:17:21] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[22:18:45] [Server thread/INFO]: [@: Changed the block at 733917, 67, 747713]
+[22:19:10] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:21:04] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[22:21:04] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[22:21:08] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[22:21:08] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[22:21:19] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[22:21:19] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
