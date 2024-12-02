@@ -670,3 +670,12 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [23:43:01] [User Authenticator #3/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
 [23:43:01] [Server thread/INFO]: R3hsk se ha unido al servidor.
 [23:43:01] [Server thread/INFO]: R3hsk[/127.205.157.163:55861] logged in with entity id 9104 at ([Permadeadth]733918.8344112367, 75.0, 747718.0402113684)
+[23:47:16] [Server thread/WARN]: R3hsk moved too quickly! 7.931131356279366,7.5,0.6314383500721306
+[23:48:34] [Server thread/INFO]: R3hsk issued server command: //set air
+[23:49:13] [Server thread/INFO]: R3hsk issued server command: //set air
+[23:49:26] [Server thread/INFO]: R3hsk issued server command: //set air
+[23:50:53] [Server thread/INFO]: R3hsk issued server command: //set air
+[23:51:55] [Server thread/INFO]: R3hsk issued server command: //set air
+[23:52:55] [Server thread/INFO]: R3hsk issued server command: //undo
+[23:53:25] [Server thread/INFO]: R3hsk issued server command: //set air
+[23:53:55] [Server thread/INFO]: R3hsk issued server command: //set air
