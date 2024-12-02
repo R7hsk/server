@@ -567,3 +567,67 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [22:53:52] [Server thread/INFO]: [@: Changed the block at 733909, 86, 747719]
 [22:54:03] [Server thread/INFO]: percentyack issued server command: /gamemode survival
 [22:54:03] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
+[22:54:12] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:54:16] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:54:19] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:54:21] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[22:54:25] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[22:54:25] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[22:55:29] [Server thread/INFO]: [@: Changed the block at 733909, 86, 747719]
+[22:56:10] [Server thread/INFO]: [@: Changed the block at 733909, 86, 747719]
+[22:56:36] [Server thread/INFO]: [@: Changed the block at 733884, 67, 747707]
+[22:57:01] [Server thread/INFO]: [@: Changed the block at 733909, 86, 747719]
+[22:57:14] [Server thread/INFO]: [@: Changed the block at 733909, 86, 747719]
+[22:57:45] [Server thread/INFO]: [@: Changed the block at 733884, 67, 747707]
+[22:58:19] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[22:58:19] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[23:00:37] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[23:00:37] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[23:00:44] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[23:00:44] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[23:00:50] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[23:00:50] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[23:01:03] [Server thread/INFO]: R3hsk issued server command: /pdc give infernalArmor
+[23:01:08] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[23:01:08] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[23:01:12] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[23:01:12] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[23:01:18] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[23:01:18] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[23:01:22] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[23:01:22] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[23:01:41] [Server thread/INFO]: Set the weather to rain & thunder
+[23:01:41] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[23:01:41] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[23:01:41] [Server thread/INFO]: X: 733890 || Y: 67 || Z: 747712
+[23:01:41] [Server thread/INFO]: R3hsk was slain by Zombie using [Espada de diamante]
+[23:01:46] [Server thread/INFO]: ¡Comienza el Death Train con duración de 1 horas!
+[23:01:48] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[23:01:48] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[23:01:51] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[23:01:51] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[23:02:02] [Server thread/INFO]: Set the weather to rain & thunder
+[23:02:02] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[23:02:02] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[23:02:02] [Server thread/INFO]: X: 733894 || Y: 67 || Z: 747713
+[23:02:07] [Server thread/INFO]: ¡Comienza el Death Train con duración de 1 horas!
+[23:02:12] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[23:02:12] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[23:02:14] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[23:02:14] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[23:02:31] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[23:02:31] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[23:02:46] [Server thread/INFO]: Set the weather to rain & thunder
+[23:02:46] [Server thread/INFO]: R3hsk ha muerto y ahora descanza en paz.
+[23:02:46] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de R3hsk. ¡HA SIDO PERMABANEADO!
+[23:02:46] [Server thread/INFO]: X: 733905 || Y: 67 || Z: 747709
+[23:02:51] [Server thread/INFO]: ¡Comienza el Death Train con duración de 1 horas!
+[23:02:55] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[23:02:55] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[23:02:59] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[23:02:59] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[23:03:23] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[23:03:23] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[23:03:36] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[23:03:39] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[23:03:43] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
