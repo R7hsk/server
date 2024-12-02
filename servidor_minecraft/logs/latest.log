@@ -292,3 +292,46 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [20:36:34] [Server thread/WARN]: Skipping Entity with id 
 [20:37:30] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
 [20:37:30] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[20:37:58] [Server thread/INFO]: percentyack issued server command: /weather clear
+[20:37:58] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[20:37:58] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[20:38:04] [Server thread/INFO]: percentyack issued server command: /pdc day
+[20:38:12] [Server thread/INFO]: percentyack issued server command: /pdc info
+[20:38:19] [Server thread/INFO]: percentyack issued server command: /pdc dias
+[20:38:30] [Server thread/INFO]: percentyack issued server command: /pdc cambiardia
+[20:38:35] [Server thread/INFO]: percentyack issued server command: /pdc cambiardia 0
+[20:38:37] [Server thread/INFO]: percentyack issued server command: /pdc cambiardia 1
+[20:38:37] [Server thread/INFO]: [02/12/2024] 20:38:37 [ERROR] Error al cargar el mundo principal, esto hará que los Death Train no se presenten.
+
+[20:38:37] [Server thread/INFO]: [02/12/2024] 20:38:37 [ERROR] Abre el archivo config.yml y establece el mundo principal en la opción: MainWorld
+
+[20:38:37] [Server thread/INFO]: [02/12/2024] 20:38:37 [INFO] El plugin utilizará el mundo Permadeadth como mundo principal.
+
+[20:38:37] [Server thread/INFO]: [02/12/2024] 20:38:37 [INFO] Si deseas utilizar otro mundo, configura en el archivo config.yml.
+
+[20:38:37] [Server thread/INFO]: [02/12/2024] 20:38:37 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+
+[20:38:37] [Server thread/INFO]: [02/12/2024] 20:38:37 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+
+[20:38:37] [Server thread/INFO]: [02/12/2024] 20:38:37 [INFO] El plugin utilizará el mundo Permadeadth_the_end como mundo del End.
+
+[20:38:37] [Server thread/INFO]: Se ha recargado el archivo de configuración y los mensajes.
+[20:38:37] [Server thread/INFO]: Algunos cambios pueden requerir un reinicio para funcionar correctamente.
+[20:38:37] [Server thread/INFO]: Nota importante: Algunos cambios pueden requerir un reinicio y la fecha puede no ser exacta.
+[20:38:44] [Server thread/INFO]: percentyack issued server command: /pdc dias
+[20:41:34] [Server thread/INFO]: percentyack issued server command: /locate Mansion
+[20:41:38] [Server thread/INFO]: percentyack issued server command: /tp @s 733904 ~ 747760
+[20:41:38] [Server thread/INFO]: [percentyack: Teleported percentyack to 733904.5, 77.0, 747760.5]
+[20:41:46] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[20:41:46] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[20:42:40] [Server thread/INFO]: percentyack issued server command: /gamerule randomTickSpeed 20
+[20:42:40] [Server thread/INFO]: [percentyack: Gamerule randomTickSpeed is now set to: 20]
+[20:42:48] [Server thread/INFO]: percentyack issued server command: /gamerule randomTickSpeed 100
+[20:42:48] [Server thread/INFO]: [percentyack: Gamerule randomTickSpeed is now set to: 100]
+[20:43:07] [Server thread/INFO]: percentyack issued server command: /weather clear
+[20:43:07] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[20:43:07] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[20:43:21] [Server thread/INFO]: R3hsk issued server command: //set air
+[20:43:40] [Server thread/INFO]: R3hsk issued server command: //set air
+[20:44:07] [Server thread/INFO]: R3hsk issued server command: //undo
+[20:44:36] [Server thread/INFO]: R3hsk issued server command: //set air
