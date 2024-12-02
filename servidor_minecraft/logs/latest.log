@@ -99,3 +99,35 @@
 [01:34:20] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
 [01:35:11] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
 [01:35:11] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[01:36:09] [Server thread/INFO]: percentyack issued server command: /home
+[01:36:56] [Server thread/WARN]: R3hsk moved too quickly! 3.7583757946267724,0.0,16.40364477795083
+[01:37:19] [Server thread/INFO]: percentyack issued server command: /weather clear
+[01:37:19] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[01:37:19] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[01:38:34] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[01:39:28] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[01:39:28] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[01:41:22] [Server thread/INFO]: R3hsk issued server command: /effect give percentyack minecraft:slowness 255 255
+[01:41:22] [Server thread/INFO]: [R3hsk: Applied effect Slowness to percentyack]
+[01:41:29] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyackç
+[01:41:36] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
+[01:41:36] [Server thread/INFO]: [R3hsk: Set percentyack's game mode to Survival Mode]
+[01:41:55] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
+[01:42:12] [Server thread/INFO]: R3hsk issued server command: /fill
+[01:42:28] [Server thread/INFO]: R3hsk issued server command: /deop p
+[01:42:28] [Server thread/INFO]: [R3hsk: Made p no longer a server operator]
+[01:42:29] [Server thread/INFO]: percentyack issued server command: /effect clear
+[01:42:29] [Server thread/INFO]: [percentyack: Removed every effect from percentyack]
+[01:42:33] [Server thread/INFO]: R3hsk issued server command: /deop percentyack`
+[01:43:12] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
+[01:43:19] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
+[01:43:31] [Server thread/INFO]: R3hsk issued server command: /tp percentyack R3hsk
+[01:43:31] [Server thread/INFO]: [R3hsk: Teleported percentyack to R3hsk]
+[01:43:33] [Server thread/INFO]: percentyack issued server command: /home
+[01:43:40] [Server thread/INFO]: R3hsk issued server command: /tp percentyack R3hsk
+[01:43:40] [Server thread/INFO]: [R3hsk: Teleported percentyack to R3hsk]
+[01:45:46] [Server thread/INFO]: percentyack issued server command: /weather clear
+[01:45:46] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[01:45:46] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[01:46:01] [Server thread/INFO]: percentyack issued server command: /time set day
+[01:46:01] [Server thread/INFO]: [percentyack: Set the time to 1000]
