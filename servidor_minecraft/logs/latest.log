@@ -1,177 +1,259 @@
-[00:01:52] [Server thread/INFO]: R3hsk has made the advancement [Suit Up]
-[00:06:52] [Server thread/INFO]: R3hsk has made the advancement [Spooky Scary Skeleton]
-[00:07:47] [Async Chat Thread - #1/INFO]: ┃ Admin ● percentyack » no
-[00:09:51] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
-[00:09:51] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
-[00:11:40] [Server thread/INFO]: [GriefPrevention] R3hsk placed a sign @ Permadeadth: x749913, z749971;Apuestas
-[00:13:21] [Async Chat Thread - #2/INFO]: ┃ Admin ● percentyack » help
-[00:13:32] [Server thread/INFO]: R3hsk issued server command: /help
-[00:13:39] [Server thread/INFO]: percentyack issued server command: /help
-[00:13:51] [Server thread/INFO]: percentyack issued server command: /help GriefPrevention
-[00:14:05] [Server thread/INFO]: R3hsk issued server command: /help n
-[00:14:20] [Server thread/INFO]: R3hsk issued server command: /claim R3hsk
-[00:14:56] [Server thread/INFO]: R3hsk issued server command: /claim
-[00:14:57] [Server thread/INFO]: percentyack issued server command: /claim
-[00:15:34] [Server thread/INFO]: percentyack issued server command: /claim
-[00:15:36] [Server thread/INFO]: percentyack issued server command: /claim
-[00:15:49] [Server thread/INFO]: R3hsk issued server command: /help
-[00:15:54] [Server thread/INFO]: R3hsk issued server command: /helpn
-[00:16:00] [Server thread/INFO]: R3hsk issued server command: /help n
-[00:16:02] [Server thread/INFO]: percentyack issued server command: /griefprevention:claimbook
-[00:16:04] [Server thread/INFO]: percentyack issued server command: /griefprevention:claimbook R3hsk
-[00:16:08] [Server thread/INFO]: percentyack issued server command: /griefprevention:claimbook R3hsk
-[00:16:23] [Server thread/INFO]: percentyack issued server command: /griefprevention:createclaim
-[00:17:10] [Server thread/INFO]: R3hsk issued server command: /deleteclaim
-[00:17:10] [Server thread/INFO]: [GriefPrevention] R3hsk deleted R3hsk's claim at Permadeadth: x749904, z749961
-[00:18:27] [Server thread/INFO]: percentyack issued server command: /gamemode survival
-[00:18:27] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
-[00:18:43] [Server thread/INFO]: percentyack issued server command: /tp R3hsk percentyack
-[00:18:43] [Server thread/INFO]: [percentyack: Teleported R3hsk to percentyack]
-[00:18:46] [Server thread/INFO]: percentyack issued server command: /gamemode survival
-[00:18:47] [Server thread/INFO]: percentyack issued server command: /gamemode survival @a
-[00:18:47] [Server thread/INFO]: [percentyack: Set R3hsk's game mode to Survival Mode]
-[00:19:36] [Server thread/INFO]: percentyack issued server command: /gamemode creative
-[00:19:36] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
-[00:19:39] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
-[00:19:39] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
-[00:20:06] [Server thread/INFO]: R3hsk issued server command: /permissiontrust R3hsk
-[00:20:27] [Server thread/INFO]: percentyack issued server command: /gamemode creative
-[00:21:41] [Server thread/INFO]: percentyack issued server command: /griefprevention:buyclaim percentyack
-[00:21:51] [Server thread/INFO]: percentyack issued server command: /griefprevention:claimbook percentyack
-[00:22:42] [Server thread/INFO]: percentyack issued server command: /ACB
-[00:22:51] [Server thread/INFO]: percentyack issued server command: /ACB percentyack 100000
-[00:22:51] [Server thread/INFO]: [GriefPrevention] percentyack adjusted percentyack's bonus claim blocks by 100000.
-[00:24:16] [Server thread/INFO]: percentyack issued server command: /griefprevention:abandonallclaims
-[00:25:15] [Server thread/INFO]: R3hsk issued server command: /deleteallclaims
-[00:25:20] [Server thread/INFO]: R3hsk issued server command: /deleteallclaims R3hsk
-[00:25:20] [Server thread/INFO]: [GriefPrevention] R3hsk deleted all claims belonging to R3hsk.
-[00:25:57] [Server thread/INFO]: percentyack issued server command: /trust R3hsk
-[00:52:24] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:debug_stick
-[00:52:24] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
-[00:54:11] [Server thread/INFO]: percentyack issued server command: /kick R3hsk
-[00:54:11] [Server thread/INFO]: R3hsk lost connection: Kicked by an operator
-[00:54:11] [Server thread/INFO]: R3hsk ha abandonado el servidor.
-[00:54:11] [Server thread/INFO]: [percentyack: Kicked R3hsk: Kicked by an operator]
-[00:54:31] [User Authenticator #6/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
-[00:54:31] [Server thread/INFO]: R3hsk se ha unido al servidor.
-[00:54:31] [Server thread/INFO]: R3hsk[/127.205.157.163:57195] logged in with entity id 16253 at ([Permadeadth]749905.8036844517, 176.0, 749967.9101836934)
-[00:57:14] [Server thread/INFO]: [GriefPrevention] R3hsk placed a sign @ Permadeadth: x749911, z749963;APUESTAS
-[01:03:24] [Server thread/INFO]: percentyack issued server command: /give @a minecraft:debug_stick
-[01:03:24] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to 2]
-[01:06:19] [Server thread/INFO]: percentyack issued server command: /weather celar
-[01:06:22] [Server thread/INFO]: percentyack issued server command: /weather clear
-[01:06:22] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[01:06:22] [Server thread/INFO]: [percentyack: Set the weather to clear]
-[01:06:24] [Server thread/INFO]: percentyack issued server command: /time set day
-[01:06:24] [Server thread/INFO]: [percentyack: Set the time to 1000]
-[01:11:26] [Server thread/INFO]: percentyack issued server command: /time set day
-[01:11:26] [Server thread/INFO]: [percentyack: Set the time to 1000]
-[01:11:27] [Server thread/INFO]: percentyack issued server command: /weather clear
-[01:11:27] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[01:11:27] [Server thread/INFO]: [percentyack: Set the weather to clear]
-[01:14:14] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:debug_stick
-[01:14:14] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
-[01:16:31] [Server thread/INFO]: percentyack issued server command: /weather clear
-[01:16:31] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[01:16:31] [Server thread/INFO]: [percentyack: Set the weather to clear]
-[01:21:35] [Server thread/INFO]: percentyack issued server command: /weather clear
-[01:21:35] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[01:21:35] [Server thread/INFO]: [percentyack: Set the weather to clear]
-[01:22:22] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:debug_stick
-[01:22:22] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
-[01:24:53] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:debug_stick
-[01:24:53] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
-[01:27:08] [Server thread/INFO]: percentyack issued server command: /weather clear
-[01:27:08] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[01:27:08] [Server thread/INFO]: [percentyack: Set the weather to clear]
-[01:27:11] [Server thread/INFO]: percentyack issued server command: /time set day
-[01:27:11] [Server thread/INFO]: [percentyack: Set the time to 1000]
-[01:29:15] [Server thread/INFO]: R3hsk has made the advancement [Cover Me With Diamonds]
-[01:32:14] [Server thread/INFO]: percentyack issued server command: /weather clear
-[01:32:14] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[01:32:14] [Server thread/INFO]: [percentyack: Set the weather to clear]
-[01:33:02] [Server thread/INFO]: R3hsk issued server command: /time set night
-[01:33:02] [Server thread/INFO]: [R3hsk: Set the time to 13000]
-[01:33:13] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
-[01:33:15] [Server thread/INFO]: R3hsk issued server command: /time set day
-[01:33:15] [Server thread/INFO]: [R3hsk: Set the time to 1000]
-[01:34:20] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
-[01:34:20] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
-[01:35:11] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
-[01:35:11] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
-[01:36:09] [Server thread/INFO]: percentyack issued server command: /home
-[01:36:56] [Server thread/WARN]: R3hsk moved too quickly! 3.7583757946267724,0.0,16.40364477795083
-[01:37:19] [Server thread/INFO]: percentyack issued server command: /weather clear
-[01:37:19] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[01:37:19] [Server thread/INFO]: [percentyack: Set the weather to clear]
-[01:38:34] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
-[01:39:28] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
-[01:39:28] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
-[01:41:22] [Server thread/INFO]: R3hsk issued server command: /effect give percentyack minecraft:slowness 255 255
-[01:41:22] [Server thread/INFO]: [R3hsk: Applied effect Slowness to percentyack]
-[01:41:29] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyackç
-[01:41:36] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
-[01:41:36] [Server thread/INFO]: [R3hsk: Set percentyack's game mode to Survival Mode]
-[01:41:55] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
-[01:42:12] [Server thread/INFO]: R3hsk issued server command: /fill
-[01:42:28] [Server thread/INFO]: R3hsk issued server command: /deop p
-[01:42:28] [Server thread/INFO]: [R3hsk: Made p no longer a server operator]
-[01:42:29] [Server thread/INFO]: percentyack issued server command: /effect clear
-[01:42:29] [Server thread/INFO]: [percentyack: Removed every effect from percentyack]
-[01:42:33] [Server thread/INFO]: R3hsk issued server command: /deop percentyack`
-[01:43:12] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
-[01:43:19] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
-[01:43:31] [Server thread/INFO]: R3hsk issued server command: /tp percentyack R3hsk
-[01:43:31] [Server thread/INFO]: [R3hsk: Teleported percentyack to R3hsk]
-[01:43:33] [Server thread/INFO]: percentyack issued server command: /home
-[01:43:40] [Server thread/INFO]: R3hsk issued server command: /tp percentyack R3hsk
-[01:43:40] [Server thread/INFO]: [R3hsk: Teleported percentyack to R3hsk]
-[01:45:46] [Server thread/INFO]: percentyack issued server command: /weather clear
-[01:45:46] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[01:45:46] [Server thread/INFO]: [percentyack: Set the weather to clear]
-[01:46:01] [Server thread/INFO]: percentyack issued server command: /time set day
-[01:46:01] [Server thread/INFO]: [percentyack: Set the time to 1000]
-[01:46:24] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[01:46:29] [Server thread/INFO]: percentyack issued server command: /gamemode creative
-[01:46:29] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
-[01:46:43] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[01:46:56] [Server thread/INFO]: Made percentyack no longer a server operator
-[01:47:06] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
-[01:47:06] [Server thread/INFO]: [R3hsk: Set percentyack's game mode to Survival Mode]
-[01:48:16] [Server thread/INFO]: R3hsk issued server command: /op percentyack
-[01:48:16] [Server thread/INFO]: [R3hsk: Made percentyack a server operator]
-[01:48:19] [Server thread/INFO]: R3hsk issued server command: /gamemode creative percentyack
-[01:48:19] [Server thread/INFO]: [R3hsk: Set percentyack's game mode to Creative Mode]
-[01:48:27] [Server thread/INFO]: percentyack issued server command: /gamemode survival
-[01:48:27] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
-[01:48:50] [Server thread/INFO]: percentyack issued server command: /home
-[01:50:02] [Server thread/INFO]: R3hsk issued server command: /deop percentyack
-[01:50:02] [Server thread/INFO]: [R3hsk: Made percentyack no longer a server operator]
-[01:50:11] [Server thread/INFO]: percentyack issued server command: /login percentyack
-[01:50:14] [Server thread/WARN]: R3hsk moved too quickly! 26.604369680513628,15.000000596046448,-7.760562090552412
-[01:50:18] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
-[01:50:18] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
-[01:50:28] [Server thread/INFO]: R3hsk issued server command: /op percentyack
-[01:50:28] [Server thread/INFO]: [R3hsk: Made percentyack a server operator]
-[01:50:32] [Server thread/INFO]: R3hsk issued server command: /gamemode creative percentyack
-[01:50:32] [Server thread/INFO]: [R3hsk: Set percentyack's game mode to Creative Mode]
-[01:50:35] [Server thread/INFO]: percentyack issued server command: /gamemode creative
-[01:50:42] [Server thread/INFO]: percentyack issued server command: /gamemode survival
-[01:50:42] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
-[01:51:09] [Server thread/INFO]: percentyack issued server command: /gamemode creative
-[01:51:09] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
-[01:51:14] [Server thread/INFO]: percentyack issued server command: /weather clear
-[01:51:14] [Server thread/INFO]: La tormenta ha llegado a su fin.
-[01:51:14] [Server thread/INFO]: [percentyack: Set the weather to clear]
-[01:52:04] [Server thread/INFO]: percentyack issued server command: /effect clear
-[01:52:04] [Server thread/INFO]: [percentyack: Removed every effect from percentyack]
-[01:52:18] [Server thread/INFO]: percentyack issued server command: /effect clear
-[01:52:18] [Server thread/INFO]: [percentyack: Removed every effect from percentyack]
-[01:52:28] [Server thread/INFO]: percentyack issued server command: /effect clear
-[01:52:28] [Server thread/INFO]: [percentyack: Removed every effect from percentyack]
-[01:52:43] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
-[01:52:43] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
-[01:52:50] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
-[01:52:50] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
-[01:53:01] [Server thread/INFO]: percentyack issued server command: /home
-[01:53:23] [Server thread/INFO]: percentyack issued server command: //undo
+[02:14:30] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[02:14:30] [Server thread/INFO]: Loading properties
+[02:14:30] [Server thread/INFO]: This server is running Paper version git-Paper-393 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[02:14:31] [Server thread/INFO]: Debug logging is disabled
+[02:14:31] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:14:31] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:14:31] [Server thread/INFO]: Default game type: SURVIVAL
+[02:14:31] [Server thread/INFO]: Generating keypair
+[02:14:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:14:31] [Server thread/INFO]: Using epoll channel type
+[02:14:31] [Server thread/ERROR]: Could not load 'plugins/SetHomes-1.2.6.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please download and install Vault to run this plugin.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:272) ~[patched_1.15.2.jar:git-Paper-393]
+	at org.bukkit.craftbukkit.v1_15_R1.CraftServer.loadPlugins(CraftServer.java:360) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.DedicatedServer.init(DedicatedServer.java:234) ~[patched_1.15.2.jar:git-Paper-393]
+	at net.minecraft.server.v1_15_R1.MinecraftServer.run(MinecraftServer.java:909) ~[patched_1.15.2.jar:git-Paper-393]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[02:14:31] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[02:14:35] [Server thread/WARN]: Legacy plugin JustTPA v1.0.0 does not specify an api-version.
+[02:14:35] [Server thread/WARN]: Legacy plugin PlayerRanks v2.0 does not specify an api-version.
+[02:14:35] [Server thread/INFO]: [AxShulkers] Loading AxShulkers v1.15.2
+[02:14:35] [Server thread/INFO]: [clicksouls] Loading clicksouls v1.0 beta
+[02:14:35] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.4.4
+[02:14:35] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.14+6360-094b734
+[02:14:35] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@382961af]
+[02:14:35] [Server thread/INFO]: [Zenchantments] Loading Zenchantments v1.6.2
+[02:14:35] [Server thread/INFO]: [JustTPA] Loading JustTPA v1.0.0
+[02:14:35] [Server thread/INFO]: [PlayerRanks] Loading PlayerRanks v2.0
+[02:14:35] [Server thread/INFO]: [GriefPrevention] Loading GriefPrevention v16.13.0
+[02:14:35] [Server thread/INFO]: [Permadeath] Loading Permadeath v1.3
+[02:14:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:14:35] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[02:14:36] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[02:14:36] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.15.2[32;1m.[0;39m
+[02:14:37] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[02:14:37] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYour Java version "11" is not supported! SkinsRestorer now uses Java 17 primarily.[0;39m
+[02:14:37] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mThe plugin was "downgraded" to Java 1.8 (Java 8) to ensure compatibility with your server, but it may cause issues.[0;39m
+[02:14:37] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mThe plugin still works, but it may have Java version related issues.[0;39m
+[02:14:37] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your server Java version to 17 or higher to get the best performance, security and to avoid issues with SkinsRestorer.[0;39m
+[02:14:37] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.14+6360-094b734
+[02:14:37] [Server thread/INFO]: [WorldEdit] Bukkit PluginClassLoader seems to have changed. Class source validation will be skipped.
+[02:14:37] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[02:14:37] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[02:14:37] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[02:14:38] [Server thread/INFO]: [Permadeath] Enabling Permadeath v1.3
+[02:14:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:14:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:14:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:14:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:14:38] [Server thread/INFO]: Preparing level "Permadeadth"
+[02:14:38] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[02:14:46] [Server thread/INFO]: Loaded 6 recipes
+[02:14:46] [Server thread/INFO]: -------- World Settings For [Permadeadth] --------
+[02:14:46] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:14:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:14:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:14:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:14:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:14:46] [Server thread/INFO]: Max TNT Explosions: 100
+[02:14:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:14:46] [Server thread/INFO]: Mob Spawn Range: 8
+[02:14:46] [Server thread/INFO]: View Distance: 10
+[02:14:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:14:46] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:14:46] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:14:46] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:14:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:14:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:14:46] [Server thread/INFO]: -------- World Settings For [Permadeadth_the_end] --------
+[02:14:46] [Server thread/INFO]: Experience Merge Radius: 3.0
+[02:14:46] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Cane Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Melon Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Potato Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Vine Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[02:14:46] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02:14:46] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02:14:46] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02:14:46] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911
+[02:14:46] [Server thread/INFO]: Max TNT Explosions: 100
+[02:14:46] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02:14:46] [Server thread/INFO]: Mob Spawn Range: 8
+[02:14:46] [Server thread/INFO]: View Distance: 10
+[02:14:46] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02:14:46] [Server thread/INFO]: Item Despawn Rate: 6000
+[02:14:46] [Server thread/INFO]: Item Merge Radius: 2.5
+[02:14:46] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02:14:46] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[02:14:46] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[02:14:46] [Server thread/INFO]: Preparing start region for dimension 'Permadeadth'/minecraft:overworld
+[02:14:47] [Server thread/INFO]: Loaded 0 spawn chunks for world Permadeadth
+[02:14:47] [Server thread/INFO]: Preparing spawn area: 0%
+[02:14:47] [Server thread/INFO]: Preparing spawn area: 0%
+[02:14:47] [Server thread/INFO]: Time elapsed: 983 ms
+[02:14:47] [Server thread/INFO]: Preparing start region for dimension 'Permadeadth_the_end'/minecraft:the_end
+[02:14:47] [Server thread/INFO]: Loaded 0 spawn chunks for world Permadeadth_the_end
+[02:14:47] [Server thread/INFO]: Preparing spawn area: 0%
+[02:14:48] [Server-Worker-2/INFO]: Preparing spawn area: 100%
+[02:14:48] [Server thread/INFO]: Time elapsed: 701 ms
+[02:14:48] [Server thread/INFO]: [AxShulkers] Enabling AxShulkers v1.15.2
+[02:14:48] [Server thread/INFO]: [AxShulkers] Loaded plugin! Using H2 database to store data!
+[02:14:48] [Server thread/INFO]: [clicksouls] Enabling clicksouls v1.0 beta
+[02:14:48] [Server thread/INFO]: [clicksouls] Plugin on
+[02:14:48] [Server thread/INFO]: [Zenchantments] Enabling Zenchantments v1.6.2
+[02:14:48] [Server thread/INFO]: Zenchantments: Detected NMS version "v1_15_R1"
+[02:14:49] [Server thread/INFO]: [JustTPA] Enabling JustTPA v1.0.0*
+[02:14:49] [Server thread/INFO]: [JustTPA] JustTPA plugin has been enabled!
+[02:14:49] [Server thread/INFO]: [PlayerRanks] Enabling PlayerRanks v2.0*
+[02:14:49] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.13.0
+[02:14:49] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[02:14:49] [Server thread/INFO]: [GriefPrevention] 1 total claims loaded.
+[02:14:49] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[02:14:49] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[02:14:49] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[02:14:49] [Server thread/INFO]: Running delayed init tasks
+[02:14:49] [Server thread/INFO]: Permadeath ➤ No se ha encontrado una librería JDA, deberás instalar una en caso de querer utilizar un bot de Discord.
+[02:14:49] [Server thread/INFO]: Descarga aquí: https://www.spigotmc.org/resources/permadeath-%E2%98%A0%EF%B8%8F.112343/
+[02:14:49] [Server thread/INFO]: Si no puedes descargarlo allí, únete a este Discord y te daremos acceso al enlace: https://discord.gg/8evPbuxPke
+[02:14:49] [Server thread/INFO]: [02/12/2024] 02:14:49 [ERROR] Error al cargar el mundo principal, esto hará que los Death Train no se presenten.
+
+[02:14:49] [Server thread/INFO]: [02/12/2024] 02:14:49 [ERROR] Abre el archivo config.yml y establece el mundo principal en la opción: MainWorld
+
+[02:14:49] [Server thread/INFO]: [02/12/2024] 02:14:49 [INFO] El plugin utilizará el mundo Permadeadth como mundo principal.
+
+[02:14:49] [Server thread/INFO]: [02/12/2024] 02:14:49 [INFO] Si deseas utilizar otro mundo, configura en el archivo config.yml.
+
+[02:14:49] [Server thread/INFO]: [02/12/2024] 02:14:49 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+
+[02:14:49] [Server thread/INFO]: [02/12/2024] 02:14:49 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+
+[02:14:49] [Server thread/INFO]: [02/12/2024] 02:14:49 [INFO] El plugin utilizará el mundo Permadeadth_the_end como mundo del End.
+
+[02:14:49] [Server thread/INFO]: ------------------------------------------
+[02:14:49] [Server thread/INFO]:              PERMADEATH
+[02:14:49] [Server thread/INFO]:      - Versión: 1.3
+[02:14:49] [Server thread/INFO]:      - Versión del Servidor: v1.15
+[02:14:49] [Server thread/INFO]: ------------------------------------------
+[02:14:49] [Server thread/INFO]:  >> INFORME DE ESTADO
+[02:14:49] [Server thread/INFO]: > Estado de mundos: Overworld: Permadeadth End: Permadeadth
+[02:14:49] [Server thread/INFO]:     > End: Permadeadth
+[02:14:49] [Server thread/INFO]:     > Overworld: Permadeadth
+[02:14:49] [Server thread/INFO]: > Estado de Compatibilidad: Compatible
+[02:14:49] [Server thread/INFO]: > Software: PaperMC (Compatible)
+[02:14:49] [Server thread/INFO]: > Cambios:
+[02:14:49] [Server thread/INFO]: >   Días disponibles: 1-60
+[02:14:49] [Server thread/INFO]: [PlayerRanks] Searching for an update on 'spigotmc.org'..
+[02:14:49] [Server thread/INFO]: [PlayerRanks] There was a new version found. It is recommended to update. (Visit spigotmc.org)
+[02:14:49] [Server thread/INFO]: Done (18.878s)! For help, type "help"
+[02:14:49] [Server thread/INFO]: Timings Reset
+[02:14:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@5b1d50b5[id=580ec885-9d4b-3219-941b-44aee1c47317,name=percentyack,properties={},legacy=false] (/127.202.181.42:49655) lost connection: Disconnected
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.4[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mdc501c7[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[02:14:49] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[02:14:49] [Craft Scheduler Thread - 0/INFO]: Permadeath ➤ Versión del plugin: Versión más reciente instalada.
+[02:14:50] [User Authenticator #1/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[02:14:52] [Craft Scheduler Thread - 2/INFO]: AxShulkers » There is a new version of AxShulkers available! (current: 1.15.2 | latest: 1.16.0)
+[02:15:09] [User Authenticator #1/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[02:15:09] [Server thread/INFO]: percentyack se ha unido al servidor.
+[02:15:09] [Server thread/INFO]: percentyack[/127.202.181.42:39895] logged in with entity id 183 at ([Permadeadth]749906.5678795726, 171.0, 749936.6038178857)
+[02:15:12] [Server thread/INFO]: percentyack issued server command: /summon minecraft:armor_stand ~ ~ ~ {HandItems:[{Count:64,id:totem_of_undying}]}
+[02:15:12] [Server thread/INFO]: [percentyack: Summoned new Armor Stand]
+[02:15:16] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CRIMSON_FUNGUS
+[02:15:16] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.WARPED_FUNGUS
+[02:15:52] [User Authenticator #1/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[02:15:52] [Server thread/INFO]: R3hsk se ha unido al servidor.
+[02:15:52] [Server thread/INFO]: R3hsk[/127.205.157.163:58411] logged in with entity id 238 at ([Permadeadth]749908.8345154002, 171.0, 749938.398543682)
+[02:16:12] [Server thread/INFO]: percentyack issued server command: /summon minecraft:armor_stand ~ ~ ~ {HandItems:[{Count:64,id:totem_of_undying}]}
+[02:16:12] [Server thread/INFO]: [percentyack: Summoned new Armor Stand]
+[02:16:36] [Server thread/INFO]: percentyack issued server command: /weather clear
+[02:16:36] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[02:16:36] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[02:16:40] [Server thread/INFO]: percentyack issued server command: /time set day
+[02:16:40] [Server thread/INFO]: [percentyack: Set the time to 1000]
+[02:20:01] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[02:20:01] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[02:20:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: v1_15_R1! Trying to find NMS support
+[02:20:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_15_R1' loaded!
+[02:20:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AxShulkers' to create a bStats instance!
+[02:20:49] [Server thread/INFO]: percentyack issued server command: /team add PvP true
+[02:20:49] [Server thread/INFO]: [percentyack: Created team [true]]
+[02:21:02] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[02:21:02] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[02:21:14] [Server thread/INFO]: percentyack issued server command: /team modify PvP friendlyFire true
+[02:21:26] [Server thread/INFO]: percentyack issued server command: /team join PvP @a
+[02:21:26] [Server thread/INFO]: [percentyack: Added 2 members to team [true]]
+[02:21:41] [Server thread/INFO]: R3hsk issued server command: /plugins
+[02:21:51] [Server thread/INFO]: percentyack issued server command: /weather clear
+[02:21:51] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[02:21:51] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[02:22:01] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[02:22:01] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[02:22:01] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[02:22:01] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[02:22:06] [Server thread/INFO]: percentyack issued server command: /gamemode spectator @a
+[02:22:06] [Server thread/INFO]: [percentyack: Set own game mode to Spectator Mode]
+[02:22:06] [Server thread/INFO]: [percentyack: Set R3hsk's game mode to Spectator Mode]
+[02:22:19] [Server thread/INFO]: percentyack issued server command: /gamemode creative @a
+[02:22:19] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[02:22:19] [Server thread/INFO]: [percentyack: Set R3hsk's game mode to Creative Mode]
+[02:22:28] [Server thread/INFO]: percentyack issued server command: /tp R3hsk percentyack
+[02:22:28] [Server thread/INFO]: [percentyack: Teleported R3hsk to percentyack]
+[02:22:34] [Server thread/INFO]: percentyack issued server command: /gamemode survival
+[02:22:34] [Server thread/INFO]: [percentyack: Set own game mode to Survival Mode]
+[02:22:56] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[02:22:56] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[02:23:17] [Server thread/INFO]: percentyack issued server command: /team join PvP @a
+[02:23:17] [Server thread/INFO]: [percentyack: Added 2 members to team [true]]
+[02:23:23] [Server thread/INFO]: R3hsk has made the advancement [Not Today, Thank You]
+[02:23:33] [Server thread/INFO]: percentyack issued server command: /team join PvP
+[02:23:33] [Server thread/INFO]: [percentyack: Added percentyack to team [true]]
+[02:23:44] [Server thread/INFO]: percentyack issued server command: /team join PvP R3hsk
+[02:23:44] [Server thread/INFO]: [percentyack: Added R3hsk to team [true]]
+[02:23:55] [Server thread/INFO]: percentyack issued server command: /team modify PvP friendlyFire
+[02:23:57] [Server thread/INFO]: R3hsk issued server command: /gamemode creative percentyack
+[02:23:57] [Server thread/INFO]: [R3hsk: Set percentyack's game mode to Creative Mode]
+[02:24:02] [Server thread/INFO]: percentyack issued server command: /team modify PvP friendlyFire false
+[02:24:02] [Server thread/INFO]: [percentyack: Disabled friendly fire for team [true]]
+[02:24:10] [Server thread/INFO]: percentyack issued server command: /team modify PvP friendlyFire true
+[02:24:10] [Server thread/INFO]: [percentyack: Enabled friendly fire for team [true]]
+[02:24:21] [Server thread/INFO]: percentyack issued server command: /team join PvP @a
+[02:24:21] [Server thread/INFO]: [percentyack: Added 2 members to team [true]]
+[02:24:27] [Server thread/INFO]: percentyack issued server command: /team list PvP
