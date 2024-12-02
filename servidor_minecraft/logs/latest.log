@@ -356,3 +356,41 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [21:07:20] [Server thread/INFO]: percentyack issued server command: /gamerule randomTickSpeed 3
 [21:07:20] [Server thread/INFO]: [percentyack: Gamerule randomTickSpeed is now set to: 3]
 [21:07:49] [Server thread/INFO]: R3hsk issued server command: /pdc dias
+[21:09:54] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:command_block
+[21:09:54] [Server thread/INFO]: [percentyack: Gave 1 [Command Block] to percentyack]
+[21:10:06] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[21:10:06] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[21:11:04] [Server thread/INFO]: percentyack issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:1,MaxNearbyEntities:6,SpawnRange:4,Delay:20,MinSpawnDelay:60,MaxSpawnDelay:120,RequiredPlayerRange:6,SpawnData:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"gene
+[21:11:09] [Server thread/INFO]: percentyack issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:1,MaxNearbyEntities:6,SpawnRange:4,Delay:20,MinSpawnDelay:60,MaxSpawnDelay:120,RequiredPlayerRange:6,SpawnData:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"gene
+[21:11:47] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[21:11:47] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[21:11:48] [Server thread/INFO]: percentyack issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:1,MaxNearbyEntities:6,SpawnRange:4,Delay:20,MinSpawnDelay:60,MaxSpawnDelay:120,RequiredPlayerRange:6,SpawnData:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"gene
+[21:11:57] [Server thread/INFO]: R3hsk has made the advancement [Take Aim]
+[21:14:05] [Server thread/INFO]: percentyack issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:1,MaxNearbyEntities:6,SpawnRange:4,Delay:20,MinSpawnDelay:60,MaxSpawnDelay:120,RequiredPlayerRange:6,SpawnData:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"gene
+[21:14:32] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:vindicator
+[21:14:32] [Server thread/INFO]: [R3hsk: Summoned new Vindicator]
+[21:14:50] [Server thread/INFO]: percentyack issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:1,MaxNearbyEntities:6,SpawnRange:4,Delay:20,MinSpawnDelay:60,MaxSpawnDelay:120,RequiredPlayerRange:6,SpawnData:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"gene
+[21:14:51] [Server thread/INFO]: percentyack issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:1,MaxNearbyEntities:6,SpawnRange:4,Delay:20,MinSpawnDelay:60,MaxSpawnDelay:120,RequiredPlayerRange:6,SpawnData:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"gene
+[21:14:52] [Server thread/INFO]: percentyack issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:1,MaxNearbyEntities:6,SpawnRange:4,Delay:20,MinSpawnDelay:60,MaxSpawnDelay:120,RequiredPlayerRange:6,SpawnData:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"gene
+[21:14:53] [Server thread/INFO]: percentyack issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:1,MaxNearbyEntities:6,SpawnRange:4,Delay:20,MinSpawnDelay:60,MaxSpawnDelay:120,RequiredPlayerRange:6,SpawnData:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"gene
+[21:14:54] [Server thread/INFO]: percentyack issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:1,MaxNearbyEntities:6,SpawnRange:4,Delay:20,MinSpawnDelay:60,MaxSpawnDelay:120,RequiredPlayerRange:6,SpawnData:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"gene
+[21:14:54] [Server thread/INFO]: percentyack issued server command: /setblock ~ ~-1 ~ spawner{SpawnCount:1,MaxNearbyEntities:6,SpawnRange:4,Delay:20,MinSpawnDelay:60,MaxSpawnDelay:120,RequiredPlayerRange:6,SpawnData:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"gene
+[21:15:05] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:villager
+[21:15:05] [Server thread/INFO]: [R3hsk: Summoned new Villager]
+[21:15:08] [Server thread/INFO]: R3hsk issued server command: /summon minecraft:vindicator
+[21:15:08] [Server thread/INFO]: [R3hsk: Summoned new Vindicator]
+[21:15:30] [Server thread/INFO]: percentyack issued server command: /give @p vindicator_spawn_egg{EntityTag:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"generic.maxHealth",Base:20},{Name:"generic.followRange",Base:20},{Name:"generic.knockbackResistance",Base:0.8f},
+[21:15:31] [Server thread/INFO]: Villager EntityVillager['Villager'/12037, uuid='4023fa59-9ed8-4506-b047-5aa050984c86', l='Permadeadth', x=733927.47, y=67.06, z=747739.10, cx=45870, cz=46733, tl=525, v=true, d=false] died, message: 'Villager was slain by R3hsk'
+[21:15:43] [Server thread/INFO]: percentyack issued server command: /give @p vindicator_spawn_egg{EntityTag:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"generic.maxHealth",Base:20},{Name:"generic.followRange",Base:20},{Name:"generic.knockbackResistance",Base:0.8f},
+[21:15:45] [Server thread/INFO]: percentyack issued server command: /give @p vindicator_spawn_egg{EntityTag:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"generic.maxHealth",Base:20},{Name:"generic.followRange",Base:20},{Name:"generic.knockbackResistance",Base:0.8f},
+[21:15:55] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[21:15:55] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[21:16:05] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[21:16:05] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[21:16:12] [Server thread/INFO]: R3hsk issued server command: /weather clear
+[21:16:12] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[21:16:12] [Server thread/INFO]: [R3hsk: Set the weather to clear]
+[21:16:15] [Server thread/INFO]: R3hsk issued server command: /time set day
+[21:16:15] [Server thread/INFO]: [R3hsk: Set the time to 1000]
+[21:17:25] [Server thread/INFO]: percentyack issued server command: /give @p vindicator_spawn_egg{EntityTag:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"generic.maxHealth",Base:20},{Name:"generic.followRange",Base:20},{Name:"generic.knockbackResistance",Base:0.8f},
+[21:18:04] [Server thread/INFO]: percentyack issued server command: /give @p vindicator_spawn_egg{EntityTag:{id:"minecraft:vindicator",CustomName:"\"Vindicador\"",CustomNameVisible:1,Health:20,Attributes:[{Name:"generic.maxHealth",Base:20},{Name:"generic.followRange",Base:20},{Name:"generic.movementSpeed",Base:1f},{Name:"g
