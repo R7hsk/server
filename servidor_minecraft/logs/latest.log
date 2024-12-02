@@ -321,3 +321,87 @@ org.bukkit.plugin.UnknownDependencyException: Unknown dependency Vault. Please d
 [02:46:22] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
 [02:46:47] [Server thread/INFO]: R3hsk issued server command: /give R3hsk minecraft:golden_apple 2
 [02:46:47] [Server thread/INFO]: [R3hsk: Gave 2 [Golden Apple] to R3hsk]
+[02:47:27] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
+[02:47:40] [Server thread/INFO]: R3hsk issued server command: /deop percentyack
+[02:47:55] [Server thread/INFO]: R3hsk issued server command: /deop p
+[02:48:13] [Server thread/INFO]: R3hsk issued server command: /deop percentyack
+[02:48:13] [Server thread/INFO]: [R3hsk: Made percentyack no longer a server operator]
+[02:48:16] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
+[02:48:32] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
+[02:48:40] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[02:48:40] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[02:48:50] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
+[02:48:52] [Server thread/INFO]: percentyack issued server command: /pvp on
+[02:49:01] [Server thread/INFO]: Nothing changed. The player already is an operator
+[02:49:18] [Server thread/INFO]: R3hsk issued server command: /pvp on
+[02:49:22] [Server thread/INFO]: percentyack issued server command: /pvp on
+[02:49:24] [Server thread/INFO]: R3hsk issued server command: /pvp ON
+[02:49:26] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[02:49:26] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[02:49:26] [Server thread/INFO]: percentyack issued server command: /pvp on percentyack
+[02:49:32] [Server thread/INFO]: R3hsk issued server command: /gamemode survival percentyack
+[02:49:44] [Server thread/INFO]: R3hsk issued server command: /pvp percentyack on
+[02:49:44] [Server thread/INFO]: percentyack issued server command: /pvpmanager
+[02:50:08] [Server thread/INFO]: R3hsk issued server command: /pvp percentyack ON
+[02:50:13] [Server thread/INFO]: R3hsk issued server command: /pvp ON
+[02:50:31] [Server thread/INFO]: R3hsk issued server command: /ban percentyack
+[02:50:31] [Server thread/INFO]: [R3hsk: Banned percentyack: Banned by an operator.]
+[02:50:31] [Server thread/INFO]: percentyack lost connection: You are banned from this server
+[02:50:31] [Server thread/INFO]: percentyack ha abandonado el servidor.
+[02:51:03] [Server thread/INFO]: R3hsk issued server command: /pardon percentyack
+[02:51:03] [Server thread/INFO]: [R3hsk: Unbanned percentyack]
+[02:51:07] [User Authenticator #2/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[02:51:07] [Server thread/INFO]: percentyack se ha unido al servidor.
+[02:51:07] [Server thread/INFO]: percentyack[/127.202.181.42:55207] logged in with entity id 901 at ([Permadeadth]749901.9010418374, 171.0, 749951.6025996975)
+[02:51:13] [Server thread/INFO]: R3hsk issued server command: /op percentyack
+[02:51:13] [Server thread/INFO]: [R3hsk: Made percentyack a server operator]
+[02:51:21] [Server thread/INFO]: percentyack issued server command: /pvpoverride percentyack R3hsk
+[02:51:54] [Server thread/INFO]: R3hsk issued server command: /kill percentyack+
+[02:51:58] [Server thread/INFO]: R3hsk issued server command: /ban percentyack
+[02:51:58] [Server thread/INFO]: [R3hsk: Banned percentyack: Banned by an operator.]
+[02:51:58] [Server thread/INFO]: percentyack lost connection: You are banned from this server
+[02:51:58] [Server thread/INFO]: percentyack ha abandonado el servidor.
+[02:52:12] [Server thread/INFO]: R3hsk issued server command: /pardon percentyack
+[02:52:12] [Server thread/INFO]: [R3hsk: Unbanned percentyack]
+[02:52:26] [Server thread/INFO]: R3hsk issued server command: /op R3hsj
+[02:52:26] [Server thread/INFO]: [R3hsk: Made R3hsj a server operator]
+[02:52:30] [Server thread/INFO]: R3hsk issued server command: /op R3hsk
+[02:52:41] [User Authenticator #3/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[02:52:41] [Server thread/INFO]: percentyack se ha unido al servidor.
+[02:52:41] [Server thread/INFO]: percentyack[/127.202.181.42:49971] logged in with entity id 938 at ([Permadeadth]749905.0338461944, 172.7735605125563, 749945.002724201)
+[02:52:42] [Server thread/INFO]: R3hsk issued server command: /give R3hsk minecraft:golden_apple 5
+[02:52:42] [Server thread/INFO]: [R3hsk: Gave 5 [Golden Apple] to R3hsk]
+[02:52:51] [Server thread/INFO]: R3hsk issued server command: /deop percentyack
+[02:52:51] [Server thread/INFO]: [R3hsk: Made percentyack no longer a server operator]
+[02:53:11] [Server thread/INFO]: R3hsk issued server command: /pvpglobal ON
+[02:53:17] [Server thread/INFO]: R3hsk issued server command: /op percentyack
+[02:53:17] [Server thread/INFO]: [R3hsk: Made percentyack a server operator]
+[02:53:30] [Server thread/INFO]: R3hsk issued server command: /effect clear percentyack
+[02:53:30] [Server thread/INFO]: [R3hsk: Removed every effect from percentyack]
+[02:54:20] [Server thread/INFO]: percentyack issued server command: /pvpoverride percentyack R3hsk
+[02:54:39] [Server thread/INFO]: R3hsk issued server command: /ban-ip percentyack
+[02:55:11] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 2
+[02:55:24] [Server thread/INFO]: Banned percentyack: Banned by an operator.
+[02:55:24] [Server thread/INFO]: percentyack lost connection: You are banned from this server
+[02:55:24] [Server thread/INFO]: [PvPManager] percentyack tried to escape combat and died!
+[02:55:24] [Server thread/INFO]: Set the weather to rain & thunder
+[02:55:24] [Server thread/INFO]: percentyack ha muerto y ahora descanza en paz.
+[02:55:24] [Server thread/INFO]: Este es el comienzo del sufrimiento eterno de percentyack. ¡HA SIDO PERMABANEADO!
+[02:55:24] [Server thread/INFO]: X: 749901 || Y: 172 || Z: 749932
+[02:55:24] [Server thread/INFO]: percentyack died
+[02:55:24] [Server thread/INFO]: percentyack ha abandonado el servidor.
+[02:55:29] [Server thread/INFO]: ¡Comienza el Death Train con duración de 2 horas!
+[02:55:50] [Server thread/INFO]: Invalid IP address or unknown player
+[02:55:53] [User Authenticator #4/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[02:55:53] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@75a1964b[id=580ec885-9d4b-3219-941b-44aee1c47317,name=percentyack,properties={textures=[com.mojang.authlib.properties.Property@546708d6]},legacy=false] (/127.202.181.42:60327): You are banned from this server.
+Reason: Banned by an operator.
+[02:55:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@75a1964b[id=580ec885-9d4b-3219-941b-44aee1c47317,name=percentyack,properties={textures=[com.mojang.authlib.properties.Property@546708d6]},legacy=false] (/127.202.181.42:60327) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[02:56:05] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[02:56:05] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[02:56:12] [User Authenticator #4/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[02:56:12] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@178c77e5[id=580ec885-9d4b-3219-941b-44aee1c47317,name=percentyack,properties={textures=[com.mojang.authlib.properties.Property@580575f7]},legacy=false] (/127.202.181.42:44521): You are banned from this server.
+Reason: Banned by an operator.
+[02:56:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@178c77e5[id=580ec885-9d4b-3219-941b-44aee1c47317,name=percentyack,properties={textures=[com.mojang.authlib.properties.Property@580575f7]},legacy=false] (/127.202.181.42:44521) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[02:56:34] [Server thread/INFO]: R3hsk has made the advancement [Hot Stuff]
