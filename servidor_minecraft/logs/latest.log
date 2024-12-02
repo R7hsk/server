@@ -658,3 +658,12 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [23:19:01] [Server thread/INFO]: [R3hsk: Applied effect Strength to R3hsk]
 [23:20:34] [Server thread/INFO]: [@: Changed the block at 733922, 67, 747752]
 [23:23:27] [Server thread/INFO]: [@: Changed the block at 733922, 67, 747752]
+[23:25:23] [Server thread/INFO]: [@: Changed the block at 733922, 67, 747752]
+[23:26:46] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[23:26:46] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[23:28:25] [Server thread/INFO]: R3hsk lost connection: Disconnected
+[23:28:25] [Server thread/INFO]: R3hsk ha abandonado el servidor.
+[23:30:43] [Server thread/INFO]: percentyack issued server command: /ban percentyack
+[23:30:43] [Server thread/INFO]: [percentyack: Banned percentyack: Banned by an operator.]
+[23:30:43] [Server thread/INFO]: percentyack lost connection: You are banned from this server
+[23:30:43] [Server thread/INFO]: percentyack ha abandonado el servidor.
