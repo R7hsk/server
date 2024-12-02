@@ -46,3 +46,12 @@
 [00:25:20] [Server thread/INFO]: R3hsk issued server command: /deleteallclaims R3hsk
 [00:25:20] [Server thread/INFO]: [GriefPrevention] R3hsk deleted all claims belonging to R3hsk.
 [00:25:57] [Server thread/INFO]: percentyack issued server command: /trust R3hsk
+[00:52:24] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:debug_stick
+[00:52:24] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
+[00:54:11] [Server thread/INFO]: percentyack issued server command: /kick R3hsk
+[00:54:11] [Server thread/INFO]: R3hsk lost connection: Kicked by an operator
+[00:54:11] [Server thread/INFO]: R3hsk ha abandonado el servidor.
+[00:54:11] [Server thread/INFO]: [percentyack: Kicked R3hsk: Kicked by an operator]
+[00:54:31] [User Authenticator #6/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[00:54:31] [Server thread/INFO]: R3hsk se ha unido al servidor.
+[00:54:31] [Server thread/INFO]: R3hsk[/127.205.157.163:57195] logged in with entity id 16253 at ([Permadeadth]749905.8036844517, 176.0, 749967.9101836934)
