@@ -335,3 +335,24 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [20:43:40] [Server thread/INFO]: R3hsk issued server command: //set air
 [20:44:07] [Server thread/INFO]: R3hsk issued server command: //undo
 [20:44:36] [Server thread/INFO]: R3hsk issued server command: //set air
+[20:48:12] [Server thread/INFO]: percentyack issued server command: /weather clear
+[20:48:12] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[20:48:12] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[20:48:17] [Server thread/INFO]: R3hsk issued server command: //set air
+[20:48:42] [Server thread/INFO]: R3hsk issued server command: //undo
+[20:48:58] [Server thread/INFO]: R3hsk issued server command: //set air
+[20:50:16] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:spawner
+[20:50:16] [Server thread/INFO]: [percentyack: Gave 1 [Spawner] to percentyack]
+[20:50:38] [Server thread/INFO]: percentyack issued server command: /cs
+[20:53:21] [Server thread/INFO]: percentyack issued server command: /weather clear
+[20:53:21] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[20:53:21] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[20:58:38] [Server thread/INFO]: R3hsk issued server command: /weather clear
+[20:58:38] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[20:58:38] [Server thread/INFO]: [R3hsk: Set the weather to clear]
+[21:02:39] [Server thread/INFO]: R3hsk issued server command: /time set day
+[21:02:39] [Server thread/INFO]: [R3hsk: Set the time to 1000]
+[21:03:17] [Server thread/INFO]: R3hsk issued server command: /ench
+[21:07:20] [Server thread/INFO]: percentyack issued server command: /gamerule randomTickSpeed 3
+[21:07:20] [Server thread/INFO]: [percentyack: Gamerule randomTickSpeed is now set to: 3]
+[21:07:49] [Server thread/INFO]: R3hsk issued server command: /pdc dias
