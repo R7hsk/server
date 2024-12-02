@@ -55,3 +55,6 @@
 [00:54:31] [User Authenticator #6/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
 [00:54:31] [Server thread/INFO]: R3hsk se ha unido al servidor.
 [00:54:31] [Server thread/INFO]: R3hsk[/127.205.157.163:57195] logged in with entity id 16253 at ([Permadeadth]749905.8036844517, 176.0, 749967.9101836934)
+[00:57:14] [Server thread/INFO]: [GriefPrevention] R3hsk placed a sign @ Permadeadth: x749911, z749963;APUESTAS
+[01:03:24] [Server thread/INFO]: percentyack issued server command: /give @a minecraft:debug_stick
+[01:03:24] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to 2]
