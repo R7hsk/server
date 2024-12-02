@@ -499,3 +499,30 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [22:21:08] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
 [22:21:19] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
 [22:21:19] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[22:23:58] [Server thread/INFO]: [@: Changed the block at 733917, 67, 747713]
+[22:24:40] [Server thread/INFO]: [@: Changed the block at 733877, 67, 747773]
+[22:26:48] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[22:26:48] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[22:28:05] [Server thread/INFO]: R3hsk issued server command: //set air
+[22:28:14] [Server thread/INFO]: R3hsk issued server command: //set air
+[22:28:22] [Server thread/INFO]: R3hsk issued server command: //set air
+[22:28:29] [Server thread/INFO]: R3hsk issued server command: //set air
+[22:28:35] [Server thread/INFO]: R3hsk issued server command: //set air
+[22:28:40] [Server thread/INFO]: R3hsk issued server command: //set air
+[22:30:30] [Server thread/INFO]: percentyack issued server command: /kick R3hsk
+[22:30:30] [Server thread/INFO]: R3hsk lost connection: Kicked by an operator
+[22:30:30] [Server thread/INFO]: R3hsk ha abandonado el servidor.
+[22:30:30] [Server thread/INFO]: [percentyack: Kicked R3hsk: Kicked by an operator]
+[22:30:50] [User Authenticator #2/INFO]: UUID of player R3hsk is 7692f88a-9b06-33c7-b0b5-53a75a64065d
+[22:30:50] [Server thread/INFO]: R3hsk se ha unido al servidor.
+[22:30:50] [Server thread/INFO]: R3hsk[/127.205.157.163:53919] logged in with entity id 5240 at ([Permadeadth]733894.5122919413, 67.5, 747728.3325430177)
+[22:34:08] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[22:34:08] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[22:35:00] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[22:35:00] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[22:35:28] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[22:35:28] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[22:35:30] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[22:35:30] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[22:35:41] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[22:35:41] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
