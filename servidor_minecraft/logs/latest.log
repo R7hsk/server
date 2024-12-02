@@ -71,3 +71,13 @@
 [01:11:27] [Server thread/INFO]: [percentyack: Set the weather to clear]
 [01:14:14] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:debug_stick
 [01:14:14] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
+[01:16:31] [Server thread/INFO]: percentyack issued server command: /weather clear
+[01:16:31] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[01:16:31] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[01:21:35] [Server thread/INFO]: percentyack issued server command: /weather clear
+[01:21:35] [Server thread/INFO]: La tormenta ha llegado a su fin.
+[01:21:35] [Server thread/INFO]: [percentyack: Set the weather to clear]
+[01:22:22] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:debug_stick
+[01:22:22] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
+[01:24:53] [Server thread/INFO]: percentyack issued server command: /give percentyack minecraft:debug_stick
+[01:24:53] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to percentyack]
