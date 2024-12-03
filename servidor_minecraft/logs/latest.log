@@ -33,3 +33,33 @@
 [00:44:08] [Server thread/INFO]: R3hsk issued server command: //paste
 [00:44:16] [Server thread/INFO]: R3hsk issued server command: //center bedr
 [00:44:21] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[00:57:51] [User Authenticator #4/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[00:57:51] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@fe18691[id=580ec885-9d4b-3219-941b-44aee1c47317,name=percentyack,properties={textures=[com.mojang.authlib.properties.Property@22c7f6]},legacy=false] (/127.202.181.42:51743): You are banned from this server.
+Reason: Banned by an operator.
+[00:57:51] [Server thread/INFO]: com.mojang.authlib.GameProfile@fe18691[id=580ec885-9d4b-3219-941b-44aee1c47317,name=percentyack,properties={textures=[com.mojang.authlib.properties.Property@22c7f6]},legacy=false] (/127.202.181.42:51743) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:58:20] [User Authenticator #4/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[00:58:20] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3fa9f4ad[id=580ec885-9d4b-3219-941b-44aee1c47317,name=percentyack,properties={textures=[com.mojang.authlib.properties.Property@646e295d]},legacy=false] (/127.202.181.42:43119): You are banned from this server.
+Reason: Banned by an operator.
+[00:58:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fa9f4ad[id=580ec885-9d4b-3219-941b-44aee1c47317,name=percentyack,properties={textures=[com.mojang.authlib.properties.Property@646e295d]},legacy=false] (/127.202.181.42:43119) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[00:58:29] [Server thread/INFO]: R3hsk issued server command: /pardon percentyack
+[00:58:29] [Server thread/INFO]: [R3hsk: Unbanned percentyack]
+[00:58:30] [User Authenticator #4/INFO]: UUID of player percentyack is 580ec885-9d4b-3219-941b-44aee1c47317
+[00:58:30] [Server thread/INFO]: percentyack se ha unido al servidor.
+[00:58:30] [Server thread/INFO]: percentyack[/127.202.181.42:47249] logged in with entity id 14546 at ([Permadeadth]733898.3000000119, 86.0, 747726.6999999881)
+[00:58:53] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[00:58:53] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[01:01:14] [Server thread/INFO]: percentyack issued server command: /give @s light_block 1 15
+[01:01:22] [Server thread/INFO]: percentyack issued server command: /give @s minecraft:light_block 1 15
+[01:02:06] [Server thread/INFO]: percentyack issued server command: /pdc afk bypass @a
+[01:02:12] [Server thread/INFO]: percentyack issued server command: /pdc afk bypass add @a
+[01:02:18] [Server thread/INFO]: percentyack issued server command: /pdc afk bypass add percentyack
+[01:02:24] [Server thread/INFO]: percentyack issued server command: /pdc afk bypass add R3hsk
+[01:02:59] [Server thread/INFO]: percentyack issued server command: //center
+[01:03:08] [Server thread/INFO]: percentyack issued server command: //center andesite
+[01:04:10] [Server thread/INFO]: percentyack issued server command: //center andesite
+[01:04:59] [Server thread/INFO]: percentyack issued server command: /give @a minecraft:dead_brain_coral
+[01:04:59] [Server thread/INFO]: [percentyack: Gave 1 [Dead Brain Coral] to 2]
+[01:05:04] [Server thread/INFO]: percentyack issued server command: /give @a minecraft:debug_stick
+[01:05:04] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to 2]

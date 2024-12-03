@@ -18,6 +18,7 @@ AntiAFK:
   - vo1d_dev
   - R3hsk
   - percentyack
+  - '@a'
 Toggles:
   DefaultDeathSoundsEnabled: true
   OptifineItems: false
