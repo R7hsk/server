@@ -137,3 +137,25 @@ Reason: Banned by an operator.
 [02:14:36] [Server thread/INFO]: R3hsk issued server command: //center bedrock
 [02:14:58] [Server thread/INFO]: R3hsk issued server command: //copy
 [02:15:07] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:16:51] [Server thread/INFO]: R3hsk issued server command: //copy
+[02:17:05] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:17:34] [Server thread/INFO]: R3hsk issued server command: //copy
+[02:17:45] [Server thread/INFO]: R3hsk issued server command: //copy
+[02:17:54] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:18:05] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:18:41] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:19:03] [Server thread/INFO]: R3hsk issued server command: //copy
+[02:19:27] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[02:19:33] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:20:08] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:20:22] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[02:20:22] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[02:20:35] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[02:20:35] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[02:21:27] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[02:21:27] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[02:23:44] [Server thread/INFO]: R3hsk issued server command: //copy
+[02:23:50] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:23:56] [PvPManager Worker Thread - 1/INFO]: [PvPManager] Checking for updates...
+[02:23:56] [PvPManager Worker Thread - 1/INFO]: [PvPManager] No update found
+[02:25:20] [Server thread/WARN]: R3hsk moved too quickly! 13.309629338793457,9.424799109881064,-0.35161030455492437
