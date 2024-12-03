@@ -448,3 +448,132 @@ Reason: Banned by an operator.
 [03:25:59] [Server thread/INFO]: R3hsk issued server command: /clear
 [03:25:59] [Server thread/INFO]: [R3hsk: Removed 178 items from player R3hsk]
 [03:26:15] [Server thread/INFO]: R3hsk issued server command: /pdc give infernalArmor
+[03:26:25] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:protection 4
+[03:26:25] [Server thread/INFO]: [R3hsk: Applied enchantment Protection IV to R3hsk's item]
+[03:26:34] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:protection 4
+[03:26:34] [Server thread/INFO]: [R3hsk: Applied enchantment Protection IV to R3hsk's item]
+[03:26:41] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:protection 4
+[03:26:41] [Server thread/INFO]: [R3hsk: Applied enchantment Protection IV to R3hsk's item]
+[03:26:53] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:protection 4
+[03:26:53] [Server thread/INFO]: [R3hsk: Applied enchantment Protection IV to R3hsk's item]
+[03:27:07] [Server thread/INFO]: R3hsk issued server command: /ench potionresistance 4
+[03:27:17] [Server thread/INFO]: R3hsk issued server command: /ench potionresistance 4
+[03:27:23] [Server thread/INFO]: R3hsk issued server command: /ench potionresistance 4
+[03:27:37] [Server thread/INFO]: R3hsk issued server command: /ench potionresistance 4
+[03:27:57] [Server thread/INFO]: R3hsk issued server command: /ench bind
+[03:28:09] [Server thread/INFO]: R3hsk issued server command: /ench bind 1
+[03:28:15] [Server thread/INFO]: R3hsk issued server command: /ench bind
+[03:28:19] [Server thread/INFO]: R3hsk issued server command: /ench bind
+[03:28:32] [Server thread/INFO]: R3hsk issued server command: /ench ethereal
+[03:28:36] [Server thread/INFO]: percentyack issued server command: /pdc give
+[03:28:42] [Server thread/INFO]: R3hsk issued server command: /ench blaze'scurse
+[03:28:43] [Server thread/INFO]: percentyack issued server command: /pdc give netherite tools
+[03:28:45] [Server thread/INFO]: percentyack issued server command: /pdc give netheritetools
+[03:28:48] [Server thread/INFO]: R3hsk issued server command: /ench gluttony
+[03:28:58] [Server thread/INFO]: R3hsk issued server command: /ench nightvision
+[03:28:58] [Server thread/INFO]: percentyack issued server command: /pdc give lifeorb
+[03:29:02] [Server thread/INFO]: R3hsk issued server command: /ench unrepairable
+[03:29:07] [Server thread/INFO]: percentyack issued server command: /pdc give endrelic
+[03:29:15] [Server thread/INFO]: percentyack issued server command: /pdc give beginningrelic
+[03:29:18] [Server thread/INFO]: R3hsk issued server command: /ench combustion 4
+[03:29:25] [Server thread/INFO]: R3hsk issued server command: /ench ethereal
+[03:29:37] [Server thread/INFO]: R3hsk issued server command: /ench stock
+[03:29:41] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:sharpness 1000000000
+[03:29:45] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:sharpness 5
+[03:29:45] [Server thread/INFO]: [percentyack: Applied enchantment Sharpness V to percentyack's item]
+[03:29:45] [Server thread/INFO]: R3hsk issued server command: /ench unrepairable
+[03:29:51] [Server thread/INFO]: R3hsk issued server command: /ench bind
+[03:29:57] [Server thread/INFO]: R3hsk issued server command: /ench ethereal
+[03:30:04] [Server thread/INFO]: R3hsk issued server command: /ench glide 3
+[03:30:10] [Server thread/INFO]: percentyack issued server command: /zenchantments:ench ethereal 1
+[03:30:14] [Server thread/INFO]: percentyack issued server command: /zenchantments:ench ethereal 1
+[03:30:15] [Server thread/INFO]: R3hsk issued server command: /ench greenthumb 3
+[03:30:20] [Server thread/INFO]: percentyack issued server command: /zenchantments:ench bind
+[03:30:20] [Server thread/INFO]: R3hsk issued server command: /ench magnetism
+[03:30:25] [Server thread/INFO]: percentyack issued server command: /zenchantments:ench conversion
+[03:30:28] [Server thread/INFO]: R3hsk issued server command: /ench saturation 3
+[03:30:31] [Server thread/INFO]: percentyack issued server command: /zenchantments:ench decapitation
+[03:30:33] [Server thread/INFO]: R3hsk issued server command: /ench unrepairable
+[03:30:39] [Server thread/INFO]: percentyack issued server command: /zenchantments:ench bind
+[03:30:41] [Server thread/INFO]: R3hsk issued server command: /ench bind
+[03:30:43] [Server thread/INFO]: percentyack issued server command: /zenchantments:ench bind 1
+[03:30:48] [Server thread/INFO]: R3hsk issued server command: /ench bounce 5
+[03:30:51] [Server thread/INFO]: percentyack issued server command: /ench bind
+[03:30:52] [Server thread/INFO]: R3hsk issued server command: /ench ethereal
+[03:30:55] [Server thread/INFO]: percentyack issued server command: /ench bind
+[03:30:58] [Server thread/INFO]: R3hsk issued server command: /ench frozenstep 3
+[03:30:59] [Server thread/INFO]: percentyack issued server command: /ench conversion 1
+[03:31:05] [Server thread/INFO]: percentyack issued server command: /ench decapitation 4
+[03:31:09] [Server thread/INFO]: R3hsk issued server command: /ench jump 4
+[03:31:11] [Server thread/INFO]: percentyack issued server command: /ench ethereal 1
+[03:31:17] [Server thread/INFO]: percentyack issued server command: /ench force 3
+[03:31:21] [Server thread/INFO]: R3hsk issued server command: /ench meador
+[03:31:24] [Server thread/INFO]: percentyack issued server command: /ench gust 1
+[03:31:27] [Server thread/INFO]: R3hsk issued server command: /ench netherstep 3
+[03:31:30] [Server thread/INFO]: percentyack issued server command: /ench iceaspect 2
+[03:31:36] [Server thread/INFO]: R3hsk issued server command: /ench speed 4
+[03:31:38] [Server thread/INFO]: percentyack issued server command: /ench level 3
+[03:31:42] [Server thread/INFO]: R3hsk issued server command: /ench spikes 3
+[03:31:44] [Server thread/INFO]: percentyack issued server command: /ench rainbowslam 4
+[03:31:49] [Server thread/INFO]: R3hsk issued server command: /ench unrepairable
+[03:31:51] [Server thread/INFO]: percentyack issued server command: /ench reaper 4
+[03:31:53] [Server thread/INFO]: R3hsk issued server command: /ench weight 4
+[03:31:55] [Server thread/INFO]: percentyack issued server command: /ench vortex1
+[03:31:57] [Server thread/INFO]: percentyack issued server command: /ench vortex 1
+[03:32:03] [Server thread/INFO]: percentyack issued server command: /ench transformation 3
+[03:32:09] [Server thread/INFO]: percentyack issued server command: /ench toxic 4
+[03:32:14] [Server thread/INFO]: percentyack issued server command: /ench stationary 1
+[03:32:21] [Server thread/INFO]: percentyack issued server command: /ench siphon 4
+[03:32:27] [Server thread/INFO]: percentyack issued server command: /ench reaper 4
+[03:32:46] [Server thread/INFO]: percentyack issued server command: /ench reaper 4
+[03:32:53] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[03:32:53] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[03:33:28] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:unbreaking 6
+[03:33:30] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:unbreaking 3
+[03:33:30] [Server thread/INFO]: [percentyack: Applied enchantment Unbreaking III to percentyack's item]
+[03:33:34] [Async Chat Thread - #1/INFO]: ┃ Admin ● R3hsk » etherial
+[03:33:48] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:mending 5
+[03:33:49] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:mending 1
+[03:33:49] [Server thread/INFO]: [percentyack: Applied enchantment Mending to percentyack's item]
+[03:34:01] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:looting 4
+[03:34:02] [Server thread/INFO]: R3hsk issued server command: /pdc give infernal armor
+[03:34:02] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:looting 3
+[03:34:02] [Server thread/INFO]: [percentyack: Applied enchantment Looting III to percentyack's item]
+[03:34:09] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:sweeping 4
+[03:34:10] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:sweeping 3
+[03:34:10] [Server thread/INFO]: [percentyack: Applied enchantment Sweeping Edge III to percentyack's item]
+[03:34:10] [Server thread/INFO]: R3hsk issued server command: /pdc give infernalArmor
+[03:34:14] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:34:14] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[03:34:17] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:fire_aspect 4
+[03:34:18] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:fire_aspect 2
+[03:34:18] [Server thread/INFO]: [percentyack: Applied enchantment Fire Aspect II to percentyack's item]
+[03:34:28] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:smite 4
+[03:34:57] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:punch 6
+[03:34:58] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:punch 2
+[03:35:04] [Server thread/INFO]: R3hsk issued server command: /pdc give infernalArmor
+[03:35:20] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:protection 4
+[03:35:20] [Server thread/INFO]: [R3hsk: Applied enchantment Protection IV to R3hsk's item]
+[03:35:37] [Server thread/INFO]: percentyack issued server command: /time set day
+[03:35:37] [Server thread/INFO]: [percentyack: Set the time to 1000]
+[03:35:41] [Server thread/INFO]: percentyack issued server command: /pdc cambiardia
+[03:35:43] [Server thread/INFO]: percentyack issued server command: /pdc cambiardia 1
+[03:35:43] [Server thread/INFO]: [03/12/2024] 03:35:43 [ERROR] Error al cargar el mundo principal, esto hará que los Death Train no se presenten.
+
+[03:35:43] [Server thread/INFO]: [03/12/2024] 03:35:43 [ERROR] Abre el archivo config.yml y establece el mundo principal en la opción: MainWorld
+
+[03:35:43] [Server thread/INFO]: [03/12/2024] 03:35:43 [INFO] El plugin utilizará el mundo Permadeadth como mundo principal.
+
+[03:35:43] [Server thread/INFO]: [03/12/2024] 03:35:43 [INFO] Si deseas utilizar otro mundo, configura en el archivo config.yml.
+
+[03:35:43] [Server thread/INFO]: [03/12/2024] 03:35:43 [ERROR] Error al cargar el mundo del end, esto hará que el end no funcione como debe.
+
+[03:35:43] [Server thread/INFO]: [03/12/2024] 03:35:43 [ERROR] Abre el archivo config.yml y establece el mundo del end en la opción: EndWorld
+
+[03:35:43] [Server thread/INFO]: [03/12/2024] 03:35:43 [INFO] El plugin utilizará el mundo Permadeadth_the_end como mundo del End.
+
+[03:35:43] [Server thread/INFO]: Se ha recargado el archivo de configuración y los mensajes.
+[03:35:43] [Server thread/INFO]: Algunos cambios pueden requerir un reinicio para funcionar correctamente.
+[03:35:43] [Server thread/INFO]: Nota importante: Algunos cambios pueden requerir un reinicio y la fecha puede no ser exacta.
+[03:35:48] [Server thread/INFO]: R3hsk issued server command: /ench bind
+[03:35:54] [Server thread/INFO]: R3hsk issued server command: /ench bounce 5
