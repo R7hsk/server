@@ -392,3 +392,59 @@ Reason: Banned by an operator.
 [03:04:19] [Server thread/INFO]: R3hsk issued server command: //undo
 [03:04:25] [Server thread/INFO]: R3hsk issued server command: //paste
 [03:04:37] [Server thread/INFO]: R3hsk issued server command: //paste
+[03:06:22] [Server thread/INFO]: [@: Changed the block at 733917, 75, 747766]
+[03:06:33] [Server thread/INFO]: [@: Changed the block at 733917, 75, 747766]
+[03:06:52] [Server thread/INFO]: [@: Changed the block at 733913, 75, 747735]
+[03:07:16] [Server thread/INFO]: [@: Changed the block at 733904, 75, 747715]
+[03:07:29] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[03:07:29] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[03:07:35] [Server thread/INFO]: [@: Changed the block at 733888, 79, 747707]
+[03:08:17] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:08:25] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[03:08:25] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[03:08:54] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:08:54] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[03:08:59] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[03:08:59] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[03:09:02] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:09:19] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[03:09:19] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[03:09:25] [Server thread/INFO]: R3hsk issued server command: /gamemode c
+[03:09:26] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:09:26] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[03:10:06] [Server thread/INFO]: [@: Changed the block at 733885, 60, 747727]
+[03:10:32] [Server thread/INFO]: [@: Changed the block at 733868, 60, 747726]
+[03:10:45] [Server thread/INFO]: [@: Changed the block at 733869, 60, 747710]
+[03:10:58] [Server thread/INFO]: [@: Changed the block at 733886, 60, 747709]
+[03:14:06] [Server thread/INFO]: [GriefPrevention] R3hsk placed a sign @ Permadeadth: x733896, z747720;NO ENTRAR ;NO ROMPER
+[03:14:42] [Server thread/INFO]: [GriefPrevention] R3hsk placed a sign @ Permadeadth: x733896, z747719;SI ENTRAS SERAS ;BANEADO DURANTE;1 DIA
+[03:15:14] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[03:15:14] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[03:18:38] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[03:18:38] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[03:18:46] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:18:46] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[03:18:58] [Server thread/INFO]: [@: Changed the block at 733877, 60, 747719]
+[03:19:11] [Server thread/INFO]: percentyack issued server command: /summon minecraft:ravager ~ ~1 ~ {CustomName:"\"Ravager\"",CustomNameVisible:1,Health:1500,Attributes:[{Name:"generic.maxHealth",Base:1500},{Name:"generic.followRange",Base:24},{Name:"generic.knockbackResistance",Base:0.1f},{Name:"generic.attackDamage",Bas
+[03:19:19] [Server thread/INFO]: [@: Summoned new Ravager]
+[03:19:36] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[03:19:36] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[03:20:02] [Server thread/INFO]: percentyack issued server command: /effect give @a minecraft:strength 99 7
+[03:20:02] [Server thread/INFO]: [percentyack: Applied effect Strength to 2 targets]
+[03:20:19] [Server thread/INFO]: percentyack issued server command: /effect give @a minecraft:haste 99 7
+[03:20:19] [Server thread/INFO]: [percentyack: Applied effect Haste to 2 targets]
+[03:20:23] [Server thread/INFO]: percentyack issued server command: /effect give @a minecraft:haste 99 100
+[03:20:23] [Server thread/INFO]: [percentyack: Applied effect Haste to 2 targets]
+[03:20:41] [Server thread/INFO]: [@: Changed the block at 733918, 74, 747707]
+[03:22:42] [Server thread/INFO]: [@: Gave 1 [Ravager Spawn Egg] to percentyack]
+[03:22:51] [Server thread/INFO]: percentyack issued server command: /effect give @a minecraft:haste 99 2
+[03:22:51] [Server thread/INFO]: [percentyack: Applied effect Haste to 2 targets]
+[03:22:52] [Server thread/INFO]: percentyack issued server command: /effect give @a minecraft:haste 99 100
+[03:22:52] [Server thread/INFO]: [percentyack: Applied effect Haste to 2 targets]
+[03:25:29] [Server thread/INFO]: percentyack issued server command: /time set day
+[03:25:29] [Server thread/INFO]: [percentyack: Set the time to 1000]
+[03:25:46] [Server thread/INFO]: percentyack issued server command: /tp R3hsk percentyack
+[03:25:46] [Server thread/INFO]: [percentyack: Teleported R3hsk to percentyack]
+[03:25:59] [Server thread/INFO]: R3hsk issued server command: /clear
+[03:25:59] [Server thread/INFO]: [R3hsk: Removed 178 items from player R3hsk]
+[03:26:15] [Server thread/INFO]: R3hsk issued server command: /pdc give infernalArmor
