@@ -3,10 +3,10 @@ Players:
     HP: 0
     LastDay: 1
     UUID: 7692f88a-9b06-33c7-b0b5-53a75a64065d
-    banCause: Mobs
-    banTime: '23:02:46'
-    banDay: '2024-12-02'
-    coords: 733905 67 747709
+    banCause: Explosión
+    banTime: 03:54:35
+    banDay: '2024-12-03'
+    coords: 733859 187 747707
   percentyack:
     UUID: 580ec885-9d4b-3219-941b-44aee1c47317
     HP: 0
