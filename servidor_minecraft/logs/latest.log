@@ -97,3 +97,26 @@ Reason: Banned by an operator.
 [01:53:38] [Server thread/INFO]: R3hsk issued server command: //paste
 [01:53:43] [Server thread/INFO]: R3hsk issued server command: //paste
 [01:55:10] [Server thread/INFO]: R3hsk issued server command: //paste
+[01:55:46] [Server thread/INFO]: R3hsk issued server command: //copy
+[01:55:53] [Server thread/INFO]: R3hsk issued server command: //paste
+[01:59:15] [Server thread/INFO]: R3hsk issued server command: //copy
+[01:59:22] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:00:04] [Server thread/INFO]: percentyack issued server command: /jumpto
+[02:00:06] [Server thread/INFO]: percentyack issued server command: /jumpto
+[02:00:10] [Server thread/INFO]: percentyack issued server command: /jumpto
+[02:00:13] [Server thread/INFO]: percentyack issued server command: /jumpto
+[02:00:16] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[02:00:16] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[02:00:19] [Server thread/INFO]: percentyack issued server command: /jumpto
+[02:00:33] [Server thread/INFO]: R3hsk issued server command: /jumpto
+[02:00:37] [Server thread/INFO]: percentyack issued server command: /jumpto
+[02:00:39] [Server thread/INFO]: R3hsk issued server command: /jumpto
+[02:00:40] [Server thread/INFO]: percentyack issued server command: /jumpto
+[02:00:43] [Server thread/INFO]: percentyack issued server command: /jumpto
+[02:00:45] [Server thread/INFO]: percentyack issued server command: /jumpto
+[02:00:46] [Server thread/INFO]: percentyack issued server command: /tp R3hsk
+[02:00:46] [Server thread/INFO]: [percentyack: Teleported percentyack to R3hsk]
+[02:00:52] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[02:00:52] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[02:00:56] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[02:00:56] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
