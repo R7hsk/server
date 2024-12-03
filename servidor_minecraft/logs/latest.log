@@ -64,3 +64,5 @@ Reason: Banned by an operator.
 [01:05:04] [Server thread/INFO]: percentyack issued server command: /give @a minecraft:debug_stick
 [01:05:04] [Server thread/INFO]: [percentyack: Gave 1 [Debug Stick] to 2]
 [01:12:09] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[01:16:51] [Server thread/INFO]: R3hsk issued server command: /give R3hsk minecraft:spawner
+[01:16:51] [Server thread/INFO]: [R3hsk: Gave 1 [Spawner] to R3hsk]
