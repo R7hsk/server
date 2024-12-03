@@ -159,3 +159,50 @@ Reason: Banned by an operator.
 [02:23:56] [PvPManager Worker Thread - 1/INFO]: [PvPManager] Checking for updates...
 [02:23:56] [PvPManager Worker Thread - 1/INFO]: [PvPManager] No update found
 [02:25:20] [Server thread/WARN]: R3hsk moved too quickly! 13.309629338793457,9.424799109881064,-0.35161030455492437
+[02:27:52] [Async Chat Thread - #0/INFO]: ┃ Admin ● percentyack » la reina nunca llora
+[02:30:15] [Server thread/INFO]: R3hsk issued server command: //center
+[02:30:19] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[02:31:02] [Server thread/INFO]: R3hsk issued server command: //copy
+[02:31:14] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[02:31:18] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:31:29] [Server thread/INFO]: R3hsk issued server command: /tp R3hsk percentyack
+[02:31:29] [Server thread/INFO]: [R3hsk: Teleported R3hsk to percentyack]
+[02:31:48] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[02:31:48] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[02:31:53] [Server thread/INFO]: percentyack issued server command: /gamemode creative R3hsk
+[02:31:53] [Server thread/INFO]: [percentyack: Set R3hsk's game mode to Creative Mode]
+[02:31:56] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[02:31:56] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[02:31:58] [Server thread/INFO]: percentyack issued server command: /gamemode creative R3hsk
+[02:31:58] [Server thread/INFO]: [percentyack: Set R3hsk's game mode to Creative Mode]
+[02:32:01] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[02:32:01] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[02:32:02] [Server thread/INFO]: percentyack issued server command: /gamemode creative R3hsk
+[02:32:02] [Server thread/INFO]: [percentyack: Set R3hsk's game mode to Creative Mode]
+[02:32:08] [Server thread/INFO]: R3hsk issued server command: /deop percentyack
+[02:32:08] [Server thread/INFO]: [R3hsk: Made percentyack no longer a server operator]
+[02:32:11] [Server thread/INFO]: R3hsk issued server command: /gamemode spectator
+[02:32:11] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
+[02:33:14] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[02:33:14] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[02:33:27] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:33:47] [Server thread/INFO]: R3hsk issued server command: /op percentyack
+[02:33:47] [Server thread/INFO]: [R3hsk: Made percentyack a server operator]
+[02:33:51] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:34:23] [Server thread/INFO]: percentyack issued server command: /gamemode spectator
+[02:34:23] [Server thread/INFO]: [percentyack: Set own game mode to Spectator Mode]
+[02:34:47] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[02:34:47] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[02:34:50] [Server thread/INFO]: percentyack issued server command: /gamemode spectator
+[02:34:50] [Server thread/INFO]: [percentyack: Set own game mode to Spectator Mode]
+[02:34:52] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[02:34:52] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[02:34:53] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[02:34:54] [Server thread/INFO]: percentyack issued server command: /gamemode spectator
+[02:34:54] [Server thread/INFO]: [percentyack: Set own game mode to Spectator Mode]
+[02:34:56] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[02:34:56] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
+[02:35:16] [Server thread/INFO]: percentyack issued server command: /gamemode spectator
+[02:35:16] [Server thread/INFO]: [percentyack: Set own game mode to Spectator Mode]
+[02:35:33] [Server thread/INFO]: percentyack issued server command: /gamemode creative
+[02:35:33] [Server thread/INFO]: [percentyack: Set own game mode to Creative Mode]
