@@ -270,3 +270,4 @@ Caused by: java.lang.UnsupportedClassVersionError: live/skayu/sethome/Main has b
 [17:35:57] [Craft Scheduler Thread - 1/INFO]: AxShulkers » There is a new version of AxShulkers available! (current: 1.15.2 | latest: 1.16.0)
 [17:35:57] [PvPManager Worker Thread - 0/INFO]: [PvPManager] Checking for updates...
 [17:35:57] [PvPManager Worker Thread - 0/INFO]: [PvPManager] No update found
+[17:51:49] [Server thread/INFO]: La tormenta ha llegado a su fin.
