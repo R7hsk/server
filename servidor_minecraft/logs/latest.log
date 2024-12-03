@@ -120,3 +120,20 @@ Reason: Banned by an operator.
 [02:00:52] [Server thread/INFO]: [R3hsk: Set own game mode to Spectator Mode]
 [02:00:56] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
 [02:00:56] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[02:11:23] [Server thread/INFO]: R3hsk issued server command: //copy
+[02:11:31] [Server thread/INFO]: R3hsk issued server command: //center
+[02:11:37] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[02:11:50] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:11:58] [Server thread/INFO]: R3hsk issued server command: //undo
+[02:12:05] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:12:21] [Server thread/INFO]: R3hsk issued server command: //center
+[02:12:27] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[02:12:44] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:13:30] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[02:13:38] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[02:14:08] [Server thread/INFO]: R3hsk issued server command: //copy
+[02:14:16] [Server thread/INFO]: R3hsk issued server command: //paste
+[02:14:31] [Server thread/INFO]: R3hsk issued server command: //center
+[02:14:36] [Server thread/INFO]: R3hsk issued server command: //center bedrock
+[02:14:58] [Server thread/INFO]: R3hsk issued server command: //copy
+[02:15:07] [Server thread/INFO]: R3hsk issued server command: //paste
