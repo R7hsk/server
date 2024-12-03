@@ -577,3 +577,78 @@ Reason: Banned by an operator.
 [03:35:43] [Server thread/INFO]: Nota importante: Algunos cambios pueden requerir un reinicio y la fecha puede no ser exacta.
 [03:35:48] [Server thread/INFO]: R3hsk issued server command: /ench bind
 [03:35:54] [Server thread/INFO]: R3hsk issued server command: /ench bounce 5
+[03:36:24] [Server thread/INFO]: R3hsk issued server command: /ench ethereal
+[03:36:29] [Server thread/INFO]: R3hsk issued server command: /ench frozenstep 3
+[03:36:36] [Server thread/INFO]: R3hsk issued server command: /ench jump 1
+[03:36:47] [Server thread/INFO]: R3hsk issued server command: /ench meador
+[03:36:51] [Server thread/INFO]: R3hsk issued server command: /ench netherstep 3
+[03:36:56] [Server thread/INFO]: R3hsk issued server command: /ench potionresistance 4
+[03:37:00] [Server thread/INFO]: R3hsk issued server command: /ench speed 4
+[03:37:05] [Server thread/INFO]: R3hsk issued server command: /ench spikes 3
+[03:37:12] [Server thread/INFO]: R3hsk issued server command: /ench unrepairable
+[03:37:45] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[03:37:45] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[03:37:47] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:37:47] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[03:37:54] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[03:37:54] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[03:38:33] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:38:33] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[03:38:46] [Server thread/INFO]: R3hsk issued server command: /effect give R3hsk minecraft:strength 30 255
+[03:38:46] [Server thread/INFO]: [R3hsk: Applied effect Strength to R3hsk]
+[03:38:51] [Server thread/INFO]: percentyack issued server command: /kill @e[type=minecraft:ravager]
+[03:38:51] [Server thread/INFO]: [percentyack: Killed 3 entities]
+[03:39:25] [Server thread/INFO]: R3hsk issued server command: /pdc give infernalArmor
+[03:39:50] [Server thread/INFO]: R3hsk issued server command: /enchant R3hsk minecraft:protection 4
+[03:39:50] [Server thread/INFO]: [R3hsk: Applied enchantment Protection IV to R3hsk's item]
+[03:39:57] [Server thread/INFO]: R3hsk issued server command: /ench bind 1
+[03:40:01] [Server thread/INFO]: R3hsk issued server command: /ench bounce 5
+[03:40:05] [Server thread/INFO]: R3hsk issued server command: /ench ethereal
+[03:40:11] [Server thread/INFO]: R3hsk issued server command: /ench frozenstep 3
+[03:40:15] [Server thread/INFO]: R3hsk issued server command: /ench meador
+[03:40:19] [Server thread/INFO]: R3hsk issued server command: /ench netherstep 3
+[03:40:26] [Server thread/INFO]: R3hsk issued server command: /ench potionresistance 4
+[03:40:31] [Server thread/INFO]: R3hsk issued server command: /ench speed 4
+[03:40:36] [Server thread/INFO]: R3hsk issued server command: /ench spikes 3
+[03:40:39] [Server thread/INFO]: R3hsk issued server command: /ench unrepairable
+[03:40:41] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[03:40:41] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[03:41:50] [Server thread/INFO]: percentyack issued server command: /pdc give infernalarmor
+[03:42:01] [Server thread/INFO]: percentyack issued server command: /ench bind 1
+[03:42:05] [Server thread/INFO]: R3hsk issued server command: /give R3hsk minecraft:totem_of_undying
+[03:42:05] [Server thread/INFO]: [R3hsk: Gave 1 [Totem of Undying] to R3hsk]
+[03:42:08] [Server thread/INFO]: percentyack issued server command: /ench ethereal 1
+[03:42:20] [Server thread/INFO]: percentyack issued server command: /ench frozenstep 3
+[03:42:27] [Server thread/INFO]: percentyack issued server command: /ench meador 1
+[03:42:28] [Server thread/INFO]: R3hsk issued server command: /ench apocalypse
+[03:42:33] [Server thread/INFO]: percentyack issued server command: /ench netherstep 3
+[03:42:36] [Server thread/INFO]: R3hsk issued server command: /ench toxic 4
+[03:42:47] [Server thread/INFO]: R3hsk issued server command: /ench reaper 4
+[03:42:50] [Server thread/INFO]: percentyack issued server command: /pdc give infernalarmor
+[03:42:55] [Server thread/INFO]: R3hsk issued server command: /ench quickshot
+[03:43:04] [Server thread/INFO]: percentyack issued server command: /ench bind 1
+[03:43:05] [Server thread/INFO]: R3hsk issued server command: /ench fireworks 4
+[03:43:08] [Server thread/INFO]: percentyack issued server command: /ench ethereal 1
+[03:43:11] [Server thread/INFO]: R3hsk issued server command: /ench firestorm 3
+[03:43:14] [Server thread/INFO]: percentyack issued server command: /ench bounce 5
+[03:43:24] [Server thread/INFO]: [INFO] La probabilidad del tótem se encuentra desactivada para el día: 1
+[03:43:38] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:43:38] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[03:44:33] [Server thread/INFO]: percentyack issued server command: /ench jump 4
+[03:44:41] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:44:43] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[03:44:43] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[03:44:57] [Server thread/INFO]: percentyack issued server command: /ench meador 1
+[03:45:12] [Server thread/INFO]: percentyack issued server command: /ench netherstep 3
+[03:45:25] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:45:25] [Server thread/INFO]: [R3hsk: Set own game mode to Creative Mode]
+[03:45:26] [Server thread/INFO]: percentyack issued server command: /ench potionresistance 4
+[03:45:28] [Server thread/INFO]: R3hsk issued server command: /gamemode creative
+[03:45:32] [Server thread/INFO]: percentyack issued server command: /ench speed 4
+[03:45:41] [Server thread/INFO]: percentyack issued server command: /ench spikes 3
+[03:46:10] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:protection 6
+[03:46:12] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:protection 4
+[03:46:12] [Server thread/INFO]: [percentyack: Applied enchantment Protection IV to percentyack's item]
+[03:46:14] [Server thread/INFO]: R3hsk issued server command: /gamemode survival
+[03:46:14] [Server thread/INFO]: [R3hsk: Set own game mode to Survival Mode]
+[03:46:25] [Server thread/INFO]: percentyack issued server command: /enchant percentyack minecraft:unbreaking 5
